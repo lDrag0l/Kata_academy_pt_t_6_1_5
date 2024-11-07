@@ -1,0 +1,64 @@
+$text-cl: #1B1C21;
+$text-cl-checked: #7E7E82;
+
+.footer {
+    margin-left: 24px;
+
+    &__buttons {
+        display: flex;
+
+        gap: 16px;
+
+        margin-bottom: 16px;
+    }
+
+    &__email {
+        margin-bottom: 12px;
+    }
+
+    &__email a {
+        font-size: 16px;
+        font-weight: 600;
+
+        color: $text-cl;
+    }
+
+    &__phone a {
+        color: $text-cl;
+
+        font-size: 24px;
+        font-weight: 700;
+    }
+
+    &__radio {
+        display: flex;
+
+        margin-top: 40px;
+        margin-bottom: 32px;
+
+        gap: 7px;
+    }
+
+    &_radio-label {
+        color: $text-cl;
+
+        font-weight: 500;
+    }
+
+    &_radio-label input {
+        display: none;
+    }
+
+    &_radio-label>input+span {
+        transition-property: color;
+        transition-duration: 400ms;
+    }
+
+    &_radio-label>input:checked+span {
+        color: $text-cl-checked;
+    }
+
+    &_radio-label>input+span:hover {
+        color: $text-cl-checked;
+    }
+}

@@ -1,0 +1,65 @@
+$text-cl: #1B1C21;
+$text-cl-active: #7E7E82;
+$background-cl-hover: #f0f0f0;
+
+.Main-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-bottom: 70px;
+
+    @media screen and (min-width: 1440px) {
+        height: 100%;
+        margin-bottom: 200px;
+    }
+
+    &__links {
+        padding-top: 25px;
+
+        @media screen and (min-width: 1440px) {
+            margin-top: 0;
+        }
+    }
+
+    &__container {
+        display: flex;
+        flex-direction: column;
+        list-style: none;
+
+        padding: 0;
+        margin: 0;
+
+        gap: 12px;
+
+        li a {
+            display: block;
+
+            padding: 10px 0;
+            padding-left: 24px;
+
+            font-weight: 500;
+            font-size: 16px;
+            color: $text-cl;
+
+            transition-property: background-color;
+            transition-duration: 300ms;
+        }
+
+        li a:hover {
+            background-color: $background-cl-hover;
+        }
+
+        li .active {
+            color: $text-cl-active;
+            position: relative;
+        }
+
+        li .active::before {
+            content: url("../img/highlight.svg");
+            position: absolute;
+            left: 0px;
+            top: 0px;
+        }
+    }
+
+}

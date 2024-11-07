@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practical_task_6.1.5</title>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js" defer></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+</head>
+
+<body>
+    <div class="app-wrapper">
+        <aside class="Mobile-menu">
+            <div class="Mobile-menu__header">
+                <div class="Mobile-menu__wrapper-left">
+                    <button class="Button Button__burger-off"></button>
+                    <div class="Mobile-menu__group">
+                        <a href="#"><img src="../img/Group.svg" alt="Logo"></a>
+                    </div>
+                </div>
+                <button class="Button Button__find"></button>
+            </div>
+
+            <div class="Mobile-menu__main-container Main-wrapper">
+
+                <nav class="Main-wrapper__links links">
+                    <ul class="Main-wrapper__container">
+                        <li><a href="#">Ремонт техники</a></li>
+                        <li><a class="active" href="#">Услуги и сервисы</a></li>
+                        <li><a href="#">Корпоративным клиентам</a></li>
+                        <li><a href="#">Продавцам техники</a></li>
+                        <li><a href="#">Партнерам</a></li>
+                        <li><a href="#">Производителям</a></li>
+                        <li><a href="#">Наши сервисные центры</a></li>
+                        <li><a href="#">Контакты</a></li>
+                    </ul>
+                </nav>
+
+            </div>
+
+            <div class="Mobile-menu__footer footer">
+                <div class="footer__buttons">
+                    <button class="Button Button__call"></button>
+                    <button class="Button Button__message"></button>
+                    <button class="Button Button__profile"></button>
+                </div>
+                <div class="footer__email">
+                    <a href="">mail@cps.com</a>
+                </div>
+                <div class="footer__phone">
+                    <a href="">8 800 890 8900</a>
+                </div>
+
+                <div class="footer__radio">
+                    <label class="footer_radio-label">
+                        <input checked type="radio" name="language" value="yes">
+                        <span>RU</span>
+                    </label>
+                    <label class="footer_radio-label">
+                        <input type="radio" name="language" value="yes">
+                        <span>EN</span>
+                    </label>
+                    <label class="footer_radio-label">
+                        <input type="radio" name="language" value="yes">
+                        <span>CN</span>
+                    </label>
+                </div>
+            </div>
+
+        </aside>
+
+        <header class="Header">
+            <div class="Header__wrapper-left">
+                <div class="Header__header-button">
+                    <button class="Button Button__burger-on"></button>
+                </div>
+
+                <div class="Mobile-menu__group">
+                    <a href="#"><img src="../img/Group.svg" alt="Logo"></a>
+                </div>
+            </div>
+
+            <div class="Header__wrapper-right">
+                <div class="Header__wrapper-buttons--left">
+                    <button class="Button Button__call"></button>
+                    <button class="Button Button__message"></button>
+                    <button class="Button Button__profile"></button>
+                </div>
+                <div class="Header__wrapper-buttons--right">
+                    <button class="Button Button__repair"></button>
+                    <button class="Button Button__check"></button>
+                </div>
+            </div>
+        </header>
+
+        <main class="Company-info">
+            <div class="Company-info__name">
+                <h1>Услуги и сервисы</h1>
+                <div class="Company-info__name-buttons">
+                    <label for="Button__repair-button">
+                        <div>Оставить заявку</div>
+                        <button class="Button Button__repair" id="Button__repair-button"></button>
+                    </label>
+
+                    <label for="Button__check-button">
+                        <div>Статус ремонта</div>
+                        <button class="Button Button__check" id="Button__check-button"></button>
+                    </label>
+
+                </div>
+            </div>
+            <nav class="Company-info__links-wrapper">
+                <ul class="Company-info__links">
+                    <li><a class="Company-info__link" href="#">Ремонтируемые устройства</a></li>
+                    <li><a class="Company-info__link" href="#">Дополнительные услуги</a></li>
+                    <li><a class="Company-info__link" href="#">Цены на услуги</a></li>
+                    <li><a class="Company-info__link" href="#">Специальные цены</a></li>
+                    <li><a class="Company-info__link" href="#">Адреса сервисных центров</a></li>
+                    <li><a class="Company-info__link" href="#">Отзывы</a></li>
+                </ul>
+            </nav>
+            <div class="Company-info__content">
+                <div class="Company-info__content-wrapper">
+                    <div class="Company-info__content-text">
+                        <p class="Company-info__content-text--par-1">Мы являемся авторизованным сервисным центром по
+                            ремонту
+                            техники Dell. Только у нас вы можете
+                            отремонтировать свой ноутбук Dell с официальной гарантией производителя.
+                        </p>
+                        <br>
+                        <p class="Company-info__content-text--par-2">Мы успешно работаем с 1992 года и заслужили
+                            репутацию
+                            надежного партнера, что подтверждает большое
+                            количество постоянных клиентов. Мы гордимся тем, что к нам обращаются по рекомендациям и, в
+                            свою
+                            очередь, советуют нас родным и близким.
+                        </p>
+                    </div>
+
+                    <button class="Company-info__content-button">Читать далее</button>
+                </div>
+                <div class="Company-info__img-wrapper">
+                    <img class="Company-info__content-img" src="./img/company-info-img.png" alt="company_info_img">
+                </div>
+            </div>
+
+            <section class="Repair-section">
+                <h2 class="Repair-section__name">Ремонт техники различных брендов</h2>
+                <div class="swiper-container">
+                    <div class="swiper swiper-1">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <a href="#">
+                                    <div class="Repair-section__card">
+                                        <img src="./../img/lenovo.svg" alt="lenovo">
+                                        <button class="Repair-section__card-button"></button>
+                                    </div>
+                                </a>
+
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="#">
+                                    <div class="Repair-section__card">
+                                        <img src="./../img/samsung.svg" alt="samsung">
+                                        <button class="Repair-section__card-button"></button>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="#">
+                                    <div class="Repair-section__card">
+                                        <img class="Repair-section_img Repair-section_img--moved-left"
+                                            src="./../img/apple.svg" alt="apple">
+                                        <button class="Repair-section__card-button"></button>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="#">
+                                    <div class="Repair-section__card">
+                                        <img src="./../img/vievsonic.svg" alt="vievsonic">
+                                        <button class="Repair-section__card-button"></button>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="#">
+                                    <div class="Repair-section__card">
+                                        <img src="./../img/bosch.svg" alt="bosch">
+                                        <button class="Repair-section__card-button"></button>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="#">
+                                    <div class="Repair-section__card">
+                                        <img class="Repair-section_img Repair-section_img--moved-left"
+                                            src="./../img/hp.svg" alt="hp">
+                                        <button class="Repair-section__card-button"></button>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="#">
+                                    <div class="Repair-section__card">
+                                        <img src="./../img/acer.svg" alt="acer">
+                                        <button class="Repair-section__card-button"></button>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="#">
+                                    <div class="Repair-section__card">
+                                        <img src="./../img/sony.svg" alt="sony">
+                                        <button class="Repair-section__card-button"></button>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="#">
+                                    <div class="Repair-section__card">
+                                        <img src="./../img/lenovo.svg" alt="lenovo">
+                                        <button class="Repair-section__card-button"></button>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="#">
+                                    <div class="Repair-section__card">
+                                        <img src="./../img/samsung.svg" alt="samsung">
+                                        <button class="Repair-section__card-button"></button>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="swiper-slide">
+                                <a href="#">
+                                    <div class="Repair-section__card">
+                                        <img class="Repair-section__img Repair-section__img--moved-left"
+                                            src="./../img/apple.svg" alt="apple">
+                                        <button class="Repair-section__card-button"></button>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+                <button class="Repair-section__button">Показать все</button>
+            </section>
+        </main>
+    </div>
+
+    <div class="modal-call">
+        <div class="modal-call__wrapper">
+            <button class="Button Button__burger-off"></button>
+            <label>
+                <div class="modal-call__name">Заказать звонок</div>
+                <form action="#" method="post">
+                    <input class="modal-call__input" type="tel" name="phone" placeholder="Телефон" required
+                        autocomplete='true'>
+
+                    <p class="modal-call__text">
+                        Нажимая “отправить”, вы даете согласие на <a class="modal-call__text-link" href="#">обработку
+                            персональных данных</a>
+                        и соглашаетесь с нашей
+                        <a class="modal-call__text-link" href="#">политикой конфиденциальности</a>
+                    </p>
+                    <div class="modal-call__button-wrapper">
+                        <button class="modal-call__button-submit" type="submit">
+                            <div class="modal-call__button-text">ОТПРАВИТЬ</div>
+                        </button>
+                    </div>
+                </form>
+            </label>
+        </div>
+    </div>
+
+    <div class="modal-feedback">
+        <div class="modal-feedback__wrapper">
+            <button class="Button Button__burger-off"></button>
+            <label>
+                <div class="modal-feedback__name">Обратная связь</div>
+                <form action="#" method="post">
+
+                    <input class="modal-feedback__input" type="text" name="name" placeholder="Имя" required
+                        autocomplete='true'>
+                    <input class="modal-feedback__input" type="tel" name="phone" placeholder="Телефон" required
+                        autocomplete='true'>
+                    <input class="modal-feedback__input" type="email" name="email" placeholder="Электронная почка"
+                        required autocomplete='true'>
+                    <textarea class=" modal-feedback__input modal-feedback__textarea" name="message"
+                        placeholder="Сообщение" required></textarea>
+
+                    <p class="modal-feedback__text">
+                        Нажимая “отправить”, вы даете согласие на 
+                        <a class="modal-feedback__text-link" href="#">обработку персональных данных</a>
+                        и соглашаетесь с нашей
+                        <a class="modal-feedback__text-link" href="#">политикой конфиденциальности</a>
+                    </p>
+                    <div class="modal-feedback__button-wrapper">
+                        <button class="modal-feedback__button-submit" type="submit">
+                            <div class="modal-feedback__button-text">ОТПРАВИТЬ</div>
+                        </button>
+                    </div>
+                </form>
+            </label>
+        </div>
+    </div>
+    <div class="modalBackdrop"></div>
+    <div class="burgerMenuBackDrop"></div>
+</body>
+
+</html>

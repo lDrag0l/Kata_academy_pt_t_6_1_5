@@ -1,0 +1,29 @@
+@import './mobile-menu-header.scss';
+@import './mobile-menu-main.scss';
+@import './mobile-menu-footer.scss';
+
+$background-cl: #FFFFFF;
+
+.Mobile-menu {
+    display: none;
+    flex-direction: column;
+    position: absolute;
+    z-index: 5;
+    top: 0;
+    left: 0;
+    width: 320px;
+    background-color: $background-cl;
+    box-shadow:
+        16px 0 52px 0 #0E185033,
+        -2px 0 4px 0 #454F7E05;
+
+    @media screen and (min-width: 321px) and (max-width: 360px) {
+        width: 100%
+    }
+
+    @media screen and (min-width: 1440px) {
+        display: flex;
+        position: static;
+        box-shadow: none;
+    }
+}

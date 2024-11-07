@@ -1,0 +1,16 @@
+@import './buttons.scss';
+
+.Button {
+    display: block;
+    width: 40px;
+    height: 40px;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    transition-property: opacity;
+    transition-duration: 400ms;
+}
+
+.Button:hover {
+    opacity: 0.7;
+}
