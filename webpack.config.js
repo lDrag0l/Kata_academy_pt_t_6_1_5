@@ -1,7 +1,8 @@
 const path = require('path')
 const HTMLWebpackPlugin = require('html-webpack-plugin')
 const MiniCssExtractPlugin = require('mini-css-extract-plugin')
-const CopyWebpackPlugin = require('copy-webpack-plugin');
+// const CopyWebpackPlugin = require('copy-webpack-plugin');
+
 module.exports = {
     context: path.resolve(__dirname, 'src'),
 
@@ -9,8 +10,8 @@ module.exports = {
 
     output: {
         clean: true,
-        filename: '[name].[hash].js',
-        path: path.resolve(__dirname, 'dist')
+        filename: '[name].[contenthash].js',
+        assetModuleFilename: "assets/[hash][ext][query]",
     },
 
     devtool: "source-map",
@@ -36,14 +37,14 @@ module.exports = {
             filename: 'styles.scss',
         }),
 
-        new CopyWebpackPlugin({
-            patterns: [
-                {
-                    from: path.resolve(__dirname, 'src/img'),
-                    to: path.resolve(__dirname, 'img')
-                }
-            ]
-        }),
+        // new CopyWebpackPlugin({
+        //     patterns: [
+        //         {
+        //             from: path.resolve(__dirname, 'src/img'),
+        //             to: path.resolve(__dirname, 'dist/img')
+        //         }
+        //     ]
+        // }),
     ],
 
     module: {
@@ -73,20 +74,6 @@ module.exports = {
                     "sass-loader",
                 ],
             },
-
-            // {
-            //     test: /\.(svg|png|jpg|jpeg|webp)$/,
-            //     use: [
-            //         {
-            //             loader: 'file-loader?name=./static/[name].[ext]'
-            //         },
-            //     ]
-            // },
-
-            // {
-            //     test: /\.(woff(2)?|ttf|eot|svg)(\?v=\d+\.\d+\.\d+)?$/,
-            //     type: 'asset/resource'
-            // },
 
             {
                 test: /\.(png|svg|jpg|jpeg|webp)$/i,
