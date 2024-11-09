@@ -7,9 +7,10 @@ $background-cl-hover: #f0f0f0;
     flex-direction: column;
     justify-content: space-between;
     margin-bottom: 70px;
+    height: 100%;
 
     @media screen and (min-width: 1440px) {
-        height: 100%;
+        height: fit-content;
         margin-bottom: 200px;
     }
 

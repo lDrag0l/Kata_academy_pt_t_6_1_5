@@ -1,0 +1,28 @@
+.Company-info__footer {
+    display: flex;
+    height: 65px;
+    border-top: 1px solid #D9FFF5;
+    margin-left: 0;
+    justify-content: space-around;
+    align-items: flex-end;
+
+    &__text {
+        color: #7E7E82;
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    &__text-left {
+        width: 30%;
+    }
+
+    &__text-middle {
+        width: 30%;
+        text-align: center;
+    }
+
+    &__text-right {
+        width: 30%;
+        text-align: right;
+    }
+}

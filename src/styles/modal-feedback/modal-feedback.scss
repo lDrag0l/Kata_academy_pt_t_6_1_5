@@ -91,5 +91,9 @@ $background-cl: #FFFFFF;
 
     @media screen and (min-width: 600px) {
         width: 440px;
+        position: fixed;
+        border-left: 1px solid #D9FFF5;
+        box-shadow: 16px 0px 52px 0px #0E185033,
+            -2px 0px 4px 0px #454F7E05;
     }
 }
