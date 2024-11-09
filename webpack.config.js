@@ -1,7 +1,7 @@
 const path = require('path')
 const HTMLWebpackPlugin = require('html-webpack-plugin')
 const MiniCssExtractPlugin = require('mini-css-extract-plugin')
-// const CopyWebpackPlugin = require('copy-webpack-plugin');
+const CopyWebpackPlugin = require('copy-webpack-plugin');
 
 module.exports = {
     context: path.resolve(__dirname, 'src'),
@@ -11,7 +11,7 @@ module.exports = {
     output: {
         clean: true,
         filename: '[name].[contenthash].js',
-        assetModuleFilename: "assets/[hash][ext][query]",
+        assetModuleFilename: 'img/[name][ext]',
     },
 
     devtool: "source-map",
@@ -37,14 +37,14 @@ module.exports = {
             filename: 'styles.scss',
         }),
 
-        // new CopyWebpackPlugin({
-        //     patterns: [
-        //         {
-        //             from: path.resolve(__dirname, 'src/img'),
-        //             to: path.resolve(__dirname, 'dist/img')
-        //         }
-        //     ]
-        // }),
+        new CopyWebpackPlugin({
+            patterns: [
+                {
+                    from: path.resolve(__dirname, 'src/img'),
+                    to: path.resolve(__dirname, 'dist/img')
+                }
+            ]
+        }),
     ],
 
     module: {
@@ -62,11 +62,6 @@ module.exports = {
             },
 
             {
-                test: /\.(eot|ttf|woff|woff2)$/,
-                type: 'asset/resource'
-            },
-
-            {
                 test: /\.s[ac]ss$/i,
                 use: [
                     "style-loader",
@@ -79,6 +74,12 @@ module.exports = {
                 test: /\.(png|svg|jpg|jpeg|webp)$/i,
                 type: 'asset/resource'
             },
+
+            {
+                test: /\.(eot|ttf|woff|woff2)$/,
+                type: 'asset/resource'
+            },
+
         ]
     }
 }

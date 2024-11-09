@@ -1,4 +1,5 @@
 {
+  "homepage": "https://lDrag0l.github.io/Kata_academy_pt_t_6_1_5",
   "name": "cata_academy_6.1.5",
   "version": "1.0.0",
   "description": "Practical task for Cata Academy 6.1.5",
@@ -8,7 +9,7 @@
     "build": "webpack --mode production",
     "start": "webpack-dev-server --mode development --open",
     "predeploy": "npm run dev",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "author": "Andriets Ruslan",
   "license": "ISC",
@@ -16,8 +17,8 @@
     "autoprefixer": "^10.4.20",
     "copy-webpack-plugin": "^12.0.2",
     "css-loader": "^7.1.2",
-    "file-loader": "^6.2.0",
     "gh-pages": "^6.2.0",
+    "html-loader": "^5.1.0",
     "html-webpack-plugin": "^5.6.3",
     "mini-css-extract-plugin": "^2.9.2",
     "node-sass": "^9.0.0",
