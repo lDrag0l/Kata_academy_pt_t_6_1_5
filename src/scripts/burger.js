@@ -22,3 +22,13 @@ burgerMenuBackDrop.addEventListener('click', function () {
     burgerMenuOpenButton.style.display = 'block';
     burgerMenuBackDrop.style.display = 'none'
 })
+
+window.addEventListener('resize', function () {
+    let width = document.body.clientWidth;
+    if (width > 1439) {
+        burgerMenu.style.display = 'flex';
+    }
+    else {
+        burgerMenu.style.display = 'none';
+    }
+})
