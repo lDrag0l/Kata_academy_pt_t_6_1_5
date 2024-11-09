@@ -18,17 +18,13 @@ butgerMenuCloseButton.addEventListener('click', function () {
 })
 
 burgerMenuBackDrop.addEventListener('click', function () {
-    burgerMenu.style.display = 'none';
-    burgerMenuOpenButton.style.display = 'block';
-    burgerMenuBackDrop.style.display = 'none'
-})
-
-window.addEventListener('resize', function () {
     let width = document.body.clientWidth;
     if (width > 1439) {
-        burgerMenu.style.display = 'flex';
+        burgerMenuBackDrop.style.display = 'none'
     }
     else {
         burgerMenu.style.display = 'none';
+        burgerMenuOpenButton.style.display = 'block';
+        burgerMenuBackDrop.style.display = 'none'
     }
 })

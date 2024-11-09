@@ -2,9 +2,9 @@ $background-cl: #FFFFFF;
 
 .modal-feedback {
     display: none;
-    position: absolute;
+    position: fixed;
     z-index: 20;
-    right: 0;
+    left: 0;
     top: 0;
     width: 320px;
     height: 100vh;
@@ -91,7 +91,8 @@ $background-cl: #FFFFFF;
 
     @media screen and (min-width: 600px) {
         width: 440px;
-        position: fixed;
+        left: auto;
+        right: 0;
         border-left: 1px solid #D9FFF5;
         box-shadow: 16px 0px 52px 0px #0E185033,
             -2px 0px 4px 0px #454F7E05;

@@ -11,7 +11,7 @@ $background-cl: #FFFFFF;
     z-index: 5;
     top: 0;
     left: 0;
-    width: 320px;
+    width: 330px;
     background-color: $background-cl;
     box-shadow:
         16px 0 52px 0 #0E185033,
@@ -21,7 +21,7 @@ $background-cl: #FFFFFF;
         width: 100%
     }
 
-    @media screen and (min-width: 1440px) {
+    @media screen and (min-width: 1439px) {
         display: flex;
         position: static;
         box-shadow: none;

@@ -97,6 +97,7 @@ $links-border-cl: #B8FFEC;
 
     &__content-wrapper {
         width: 100%;
+        height: 130px;
 
         @media screen and (min-width: 767px) {
             height: 160px;
@@ -136,6 +137,11 @@ $links-border-cl: #B8FFEC;
         margin-right: 6px;
         width: 24px;
         height: 24px;
+    }
+
+    &__content-button.company-info__button-rotated::before {
+        content: url('./../img/expand.svg');
+        transform: rotate(180deg);
     }
 
     &__img-wrapper {
