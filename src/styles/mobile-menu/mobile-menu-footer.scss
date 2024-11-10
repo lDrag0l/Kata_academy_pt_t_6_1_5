@@ -33,10 +33,14 @@ $text-cl-checked: #7E7E82;
     &__radio {
         display: flex;
 
-        margin-top: 40px;
+        margin-top: 8px;
         margin-bottom: 32px;
 
         gap: 7px;
+
+        @media screen and (min-width: 767px) {
+            padding-top: 40px;
+        }
     }
 
     &_radio-label {

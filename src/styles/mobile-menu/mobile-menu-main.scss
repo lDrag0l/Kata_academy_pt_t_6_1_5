@@ -6,16 +6,20 @@ $background-cl-hover: #f0f0f0;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    margin-bottom: 70px;
-    height: 100%;
+    margin-bottom: 32px;
 
-    @media screen and (min-width: 1440px) {
+    @media screen and (min-width: 767px) {
         height: fit-content;
         margin-bottom: 200px;
     }
 
     &__links {
-        padding-top: 25px;
+        padding-top: 16px;
+
+        @media screen and (min-width: 767px) {
+            padding-top: 46px;
+        }
+
 
         @media screen and (min-width: 1440px) {
             margin-top: 0;
@@ -30,12 +34,11 @@ $background-cl-hover: #f0f0f0;
         padding: 0;
         margin: 0;
 
-        gap: 12px;
-
         li a {
             display: block;
 
             padding: 10px 0;
+            margin-bottom: 6px;
             padding-left: 24px;
 
             font-weight: 500;
