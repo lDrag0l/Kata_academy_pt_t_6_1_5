@@ -1,11 +1,11 @@
 //тень формы
-const modalBackDrop = document.querySelector('.modalBackdrop')
+const modalBackDrop = document.querySelector('.modal__backdrop')
 
 //формы
-const modalCall = document.querySelector('.modal-call')
+const modalCall = document.querySelector('.Modal-call')
 
 const modalCallForm = modalCall.querySelector('form')
-const modalCallCloseButton = modalCall.querySelector('.Button__burger-off')
+const modalCallCloseButton = modalCall.querySelector('.Round-icon--off')
 
 //кнопка закрытия
 modalCallCloseButton.addEventListener('click', function () {
@@ -14,7 +14,7 @@ modalCallCloseButton.addEventListener('click', function () {
 })
 
 //Кнопки открытия
-const modalCallOpenButtons = document.querySelectorAll('.Button__call')
+const modalCallOpenButtons = document.querySelectorAll('.Round-icon--call')
 
 for (let i = 0; i < modalCallOpenButtons.length; i++) {
     modalCallOpenButtons[i].addEventListener('click', function () {
@@ -24,10 +24,10 @@ for (let i = 0; i < modalCallOpenButtons.length; i++) {
 }
 
 
-const modalFeedBack = document.querySelector('.modal-feedback')
+const modalFeedBack = document.querySelector('.Modal-feedback')
 
 const modalFeedBackForm = modalFeedBack.querySelector('form')
-const modalFeedBackCloseButton = modalFeedBack.querySelector('.Button__burger-off')
+const modalFeedBackCloseButton = modalFeedBack.querySelector('.Round-icon--off')
 
 //кнопка закрытия
 modalFeedBackCloseButton.addEventListener('click', function () {
@@ -35,7 +35,7 @@ modalFeedBackCloseButton.addEventListener('click', function () {
     modalBackDrop.style.display = "none"
 })
 
-const modalFeedBackOpenButtons = document.querySelectorAll('.Button__message')
+const modalFeedBackOpenButtons = document.querySelectorAll('.Round-icon--message')
 
 //Кнопки открытия
 for (let i = 0; i < modalFeedBackOpenButtons.length; i++) {

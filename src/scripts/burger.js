@@ -1,9 +1,9 @@
 const burgerMenu = document.querySelector('.Mobile-menu')
 
-const burgerMenuOpenButton = document.querySelector('.Button__burger-on')
-const butgerMenuCloseButton = burgerMenu.querySelector('.Button__burger-off')
+const burgerMenuOpenButton = document.querySelector('.Round-icon--on')
+const butgerMenuCloseButton = burgerMenu.querySelector('.Round-icon--off')
 
-const burgerMenuBackDrop = document.querySelector('.burgerMenuBackDrop')
+const burgerMenuBackDrop = document.querySelector('.Mobile-menu__backdrop')
 
 burgerMenuOpenButton.addEventListener('click', function () {
     burgerMenu.style.display = 'flex';

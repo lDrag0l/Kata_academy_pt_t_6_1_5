@@ -1,11 +1,11 @@
 //элементы первого слайдера
-const button = document.querySelector('.Repair-section__button')
 const repairSection = document.querySelector('.Repair-section')
+const button = repairSection.querySelector('.Increase-content__button')
 const repairSectionContainer = repairSection.querySelector('.swiper-container')
 
 //элементы второго слайдера
-const buttonSecond = document.querySelector('.Repair-second__button')
 const repairSectionSecond = document.querySelector('.Repair-second')
+const buttonSecond = repairSectionSecond.querySelector('.Increase-content__button')
 const repairSectionContainerSecond = repairSectionSecond.querySelector('.swiper-container')
 
 //eventlistener первого слайдера
@@ -13,11 +13,11 @@ button.addEventListener('click', function () {
 
     if (repairSectionContainer.style.height != "100%") {
         repairSectionContainer.style.height = "100%";
-        button.classList.add('Repair-section_button__rotate')
+        button.classList.add('Increase-content__button--rotated-true')
         button.textContent = 'Скрыть'
     }
     else {
-        button.classList.remove('Repair-section_button__rotate')
+        button.classList.remove('Increase-content__button--rotated-true')
         repairSectionContainer.style.height = "160px"
         button.textContent = 'Показать все'
     }
@@ -28,11 +28,11 @@ buttonSecond.addEventListener('click', function () {
 
     if (repairSectionContainerSecond.style.height != "100%") {
         repairSectionContainerSecond.style.height = "100%";
-        buttonSecond.classList.add('Repair-second_button__rotate')
+        buttonSecond.classList.add('Increase-content__button--rotated-true')
         buttonSecond.textContent = 'Скрыть'
     }
     else {
-        buttonSecond.classList.remove('Repair-second_button__rotate')
+        buttonSecond.classList.remove('Increase-content__button--rotated-true')
         repairSectionContainerSecond.style.height = "160px"
         buttonSecond.textContent = 'Показать все'
     }
