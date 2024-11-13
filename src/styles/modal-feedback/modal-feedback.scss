@@ -24,20 +24,17 @@ $background-cl: #FFFFFF;
         }
     }
 
-    &__label-wrapper {
+    &__name {
         margin-bottom: 24px;
+        font-size: 24px;
+        font-weight: 600;
+    }
 
-        label {
-            font-size: 24px;
-            font-weight: 600;
-        }
-
-        label::before {
-            content: url('./../img/highlight.svg');
-            position: relative;
-            left: -16px;
-            top: 10px;
-        }
+    &__name::before {
+        content: url('./../img/highlight.svg');
+        position: relative;
+        left: -16px;
+        top: 10px;
     }
 
     &__input {
