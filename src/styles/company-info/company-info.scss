@@ -10,6 +10,7 @@ $links-border-cl: #B8FFEC;
     &__name {
         margin-bottom: 24px;
         display: flex;
+        align-items: center;
         justify-content: space-between;
 
         @media screen and (min-width: 1120px) {
@@ -22,16 +23,17 @@ $links-border-cl: #B8FFEC;
         display: none;
         gap: 32px;
         margin-right: 30px;
+        align-items: center;
 
         @media screen and (min-width: 1120px) {
             display: flex;
         }
-    }
 
-    &__name-buttons label {
-        display: flex;
-        gap: 8px;
-        align-items: center;
+        .Company-info__buttons-holder {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
     }
 
     &__name h1 {
