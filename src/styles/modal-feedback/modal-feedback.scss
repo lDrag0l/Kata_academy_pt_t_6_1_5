@@ -26,18 +26,18 @@ $background-cl: #FFFFFF;
 
     &__label-wrapper {
         margin-bottom: 24px;
-    }
 
-    &__name {
-        font-size: 24px;
-        font-weight: 600;
-    }
+        label {
+            font-size: 24px;
+            font-weight: 600;
+        }
 
-    &__name::before {
-        content: url('./../img/highlight.svg');
-        position: relative;
-        left: -16px;
-        top: 10px;
+        label::before {
+            content: url('./../img/highlight.svg');
+            position: relative;
+            left: -16px;
+            top: 10px;
+        }
     }
 
     &__input {
