@@ -35,20 +35,19 @@ var ___CSS_LOADER_URL_IMPORT_7___ = new URL(/* asset import */ __webpack_require
 var ___CSS_LOADER_URL_IMPORT_8___ = new URL(/* asset import */ __webpack_require__(/*! ../Fonts/TTLakes-Bold.ttf */ "./Fonts/TTLakes-Bold.ttf"), __webpack_require__.b);
 var ___CSS_LOADER_URL_IMPORT_9___ = new URL(/* asset import */ __webpack_require__(/*! ../img/highlight.svg */ "./img/highlight.svg"), __webpack_require__.b);
 var ___CSS_LOADER_URL_IMPORT_10___ = new URL(/* asset import */ __webpack_require__(/*! ./../img/divider.svg */ "./img/divider.svg"), __webpack_require__.b);
-var ___CSS_LOADER_URL_IMPORT_11___ = new URL(/* asset import */ __webpack_require__(/*! ../img/burger-off.svg */ "./img/burger-off.svg"), __webpack_require__.b);
-var ___CSS_LOADER_URL_IMPORT_12___ = new URL(/* asset import */ __webpack_require__(/*! ../img/burger-on.svg */ "./img/burger-on.svg"), __webpack_require__.b);
-var ___CSS_LOADER_URL_IMPORT_13___ = new URL(/* asset import */ __webpack_require__(/*! ../img/search.svg */ "./img/search.svg"), __webpack_require__.b);
-var ___CSS_LOADER_URL_IMPORT_14___ = new URL(/* asset import */ __webpack_require__(/*! ../img/call.svg */ "./img/call.svg"), __webpack_require__.b);
-var ___CSS_LOADER_URL_IMPORT_15___ = new URL(/* asset import */ __webpack_require__(/*! ../img/chat.svg */ "./img/chat.svg"), __webpack_require__.b);
-var ___CSS_LOADER_URL_IMPORT_16___ = new URL(/* asset import */ __webpack_require__(/*! ../img/profile.svg */ "./img/profile.svg"), __webpack_require__.b);
-var ___CSS_LOADER_URL_IMPORT_17___ = new URL(/* asset import */ __webpack_require__(/*! ../img/repair.svg */ "./img/repair.svg"), __webpack_require__.b);
-var ___CSS_LOADER_URL_IMPORT_18___ = new URL(/* asset import */ __webpack_require__(/*! ../img/checkstatus.svg */ "./img/checkstatus.svg"), __webpack_require__.b);
-var ___CSS_LOADER_URL_IMPORT_19___ = new URL(/* asset import */ __webpack_require__(/*! ./../img/highlight.svg */ "./img/highlight.svg"), __webpack_require__.b);
-var ___CSS_LOADER_URL_IMPORT_20___ = new URL(/* asset import */ __webpack_require__(/*! ./../img/expand.svg */ "./img/expand.svg"), __webpack_require__.b);
+var ___CSS_LOADER_URL_IMPORT_11___ = new URL(/* asset import */ __webpack_require__(/*! ./../img/expand.svg */ "./img/expand.svg"), __webpack_require__.b);
+var ___CSS_LOADER_URL_IMPORT_12___ = new URL(/* asset import */ __webpack_require__(/*! ./../img/go.svg */ "./img/go.svg"), __webpack_require__.b);
+var ___CSS_LOADER_URL_IMPORT_13___ = new URL(/* asset import */ __webpack_require__(/*! ../img/burger-off.svg */ "./img/burger-off.svg"), __webpack_require__.b);
+var ___CSS_LOADER_URL_IMPORT_14___ = new URL(/* asset import */ __webpack_require__(/*! ../img/burger-on.svg */ "./img/burger-on.svg"), __webpack_require__.b);
+var ___CSS_LOADER_URL_IMPORT_15___ = new URL(/* asset import */ __webpack_require__(/*! ../img/search.svg */ "./img/search.svg"), __webpack_require__.b);
+var ___CSS_LOADER_URL_IMPORT_16___ = new URL(/* asset import */ __webpack_require__(/*! ../img/call.svg */ "./img/call.svg"), __webpack_require__.b);
+var ___CSS_LOADER_URL_IMPORT_17___ = new URL(/* asset import */ __webpack_require__(/*! ../img/chat.svg */ "./img/chat.svg"), __webpack_require__.b);
+var ___CSS_LOADER_URL_IMPORT_18___ = new URL(/* asset import */ __webpack_require__(/*! ../img/profile.svg */ "./img/profile.svg"), __webpack_require__.b);
+var ___CSS_LOADER_URL_IMPORT_19___ = new URL(/* asset import */ __webpack_require__(/*! ../img/repair.svg */ "./img/repair.svg"), __webpack_require__.b);
+var ___CSS_LOADER_URL_IMPORT_20___ = new URL(/* asset import */ __webpack_require__(/*! ../img/checkstatus.svg */ "./img/checkstatus.svg"), __webpack_require__.b);
 var ___CSS_LOADER_URL_IMPORT_21___ = new URL(/* asset import */ __webpack_require__(/*! ./../img/dropdown.svg */ "./img/dropdown.svg"), __webpack_require__.b);
-var ___CSS_LOADER_URL_IMPORT_22___ = new URL(/* asset import */ __webpack_require__(/*! ./../img/repait-section-button.svg */ "./img/repait-section-button.svg"), __webpack_require__.b);
-var ___CSS_LOADER_URL_IMPORT_23___ = new URL(/* asset import */ __webpack_require__(/*! ./../img/go.svg */ "./img/go.svg"), __webpack_require__.b);
-var ___CSS_LOADER_URL_IMPORT_24___ = new URL(/* asset import */ __webpack_require__(/*! ./../img/Line.svg */ "./img/Line.svg"), __webpack_require__.b);
+var ___CSS_LOADER_URL_IMPORT_22___ = new URL(/* asset import */ __webpack_require__(/*! ./../img/highlight.svg */ "./img/highlight.svg"), __webpack_require__.b);
+var ___CSS_LOADER_URL_IMPORT_23___ = new URL(/* asset import */ __webpack_require__(/*! ./../img/Line.svg */ "./img/Line.svg"), __webpack_require__.b);
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_sourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));
 ___CSS_LOADER_EXPORT___.i(_node_modules_css_loader_dist_cjs_js_reset_css__WEBPACK_IMPORTED_MODULE_2__["default"]);
 var ___CSS_LOADER_URL_REPLACEMENT_0___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_3___default()(___CSS_LOADER_URL_IMPORT_0___);
@@ -75,7 +74,6 @@ var ___CSS_LOADER_URL_REPLACEMENT_20___ = _node_modules_css_loader_dist_runtime_
 var ___CSS_LOADER_URL_REPLACEMENT_21___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_3___default()(___CSS_LOADER_URL_IMPORT_21___);
 var ___CSS_LOADER_URL_REPLACEMENT_22___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_3___default()(___CSS_LOADER_URL_IMPORT_22___);
 var ___CSS_LOADER_URL_REPLACEMENT_23___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_3___default()(___CSS_LOADER_URL_IMPORT_23___);
-var ___CSS_LOADER_URL_REPLACEMENT_24___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_3___default()(___CSS_LOADER_URL_IMPORT_24___);
 // Module
 ___CSS_LOADER_EXPORT___.push([module.id, `@font-face {
   font-family: 'TT Lakes';
@@ -111,7 +109,7 @@ ___CSS_LOADER_EXPORT___.push([module.id, `@font-face {
     align-items: center;
     gap: 16px; }
   @media screen and (min-width: 1440px) {
-    .Mobile-menu__header .Button__burger-off {
+    .Mobile-menu__header .Round-icon--off {
       display: none; } }
 
 .Main-wrapper {
@@ -137,7 +135,7 @@ ___CSS_LOADER_EXPORT___.push([module.id, `@font-face {
     list-style: none;
     padding: 0;
     margin: 0; }
-    .Main-wrapper__container li a {
+    .Main-wrapper__container .Main-wrapper__link {
       display: block;
       padding: 10px 0;
       margin-bottom: 6px;
@@ -147,12 +145,12 @@ ___CSS_LOADER_EXPORT___.push([module.id, `@font-face {
       color: #1B1C21;
       transition-property: background-color;
       transition-duration: 300ms; }
-    .Main-wrapper__container li a:hover {
+    .Main-wrapper__container .Main-wrapper__link:hover {
       background-color: #f0f0f0; }
-    .Main-wrapper__container li .active {
+    .Main-wrapper__container .Main-wrapper__link.active {
       color: #7E7E82;
       position: relative; }
-    .Main-wrapper__container li .active::before {
+    .Main-wrapper__container .Main-wrapper__link.active::before {
       content: url(${___CSS_LOADER_URL_REPLACEMENT_9___});
       position: absolute;
       left: 0px;
@@ -198,7 +196,7 @@ ___CSS_LOADER_EXPORT___.push([module.id, `@font-face {
 .Mobile-menu {
   display: none;
   flex-direction: column;
-  position: absolute;
+  position: fixed;
   z-index: 5;
   top: 0;
   left: 0;
@@ -208,6 +206,9 @@ ___CSS_LOADER_EXPORT___.push([module.id, `@font-face {
   @media screen and (min-width: 321px) and (max-width: 360px) {
     .Mobile-menu {
       width: 100%; } }
+  @media screen and (min-width: 767px) {
+    .Mobile-menu {
+      position: absolute; } }
   @media screen and (min-width: 1439px) {
     .Mobile-menu {
       display: flex;
@@ -268,55 +269,24 @@ ___CSS_LOADER_EXPORT___.push([module.id, `@font-face {
       padding-left: 20px;
       padding-right: 4px; } }
 
-.Button__burger-off {
-  background-image: url(${___CSS_LOADER_URL_REPLACEMENT_11___});
-  background-repeat: no-repeat;
-  background-position: 50% 50%;
-  background-color: #ffffff; }
+.Increase-content__button {
+  font-size: 16px;
+  color: #1B1C21;
+  line-height: 24px;
+  font-weight: 500; }
 
-.Button__burger-on {
-  background-image: url(${___CSS_LOADER_URL_REPLACEMENT_12___});
-  background-repeat: no-repeat;
-  background-position: 50% 50%;
-  background-color: #ffffff; }
+.Increase-content__button::before {
+  content: url(${___CSS_LOADER_URL_REPLACEMENT_11___});
+  display: inline-block;
+  margin-right: 6px;
+  width: 24px;
+  height: 24px; }
 
-.Button__find {
-  background-image: url(${___CSS_LOADER_URL_REPLACEMENT_13___});
-  background-repeat: no-repeat;
-  background-position: 50% 50%;
-  background-color: #ffffff; }
+.Increase-content__button.Increase-content__button--rotated-true::before {
+  content: url(${___CSS_LOADER_URL_REPLACEMENT_11___});
+  transform: rotate(180deg); }
 
-.Button__call {
-  background-image: url(${___CSS_LOADER_URL_REPLACEMENT_14___});
-  background-repeat: no-repeat;
-  background-position: 50% 50%;
-  background-color: #ffffff; }
-
-.Button__message {
-  background-image: url(${___CSS_LOADER_URL_REPLACEMENT_15___});
-  background-repeat: no-repeat;
-  background-position: 50% 50%;
-  background-color: #ffffff; }
-
-.Button__profile {
-  background-image: url(${___CSS_LOADER_URL_REPLACEMENT_16___});
-  background-repeat: no-repeat;
-  background-position: 50% 50%;
-  background-color: #ffffff; }
-
-.Button__repair {
-  background-image: url(${___CSS_LOADER_URL_REPLACEMENT_17___});
-  background-repeat: no-repeat;
-  background-position: 50% 50%;
-  background-color: #ffffff; }
-
-.Button__check {
-  background-image: url(${___CSS_LOADER_URL_REPLACEMENT_18___});
-  background-repeat: no-repeat;
-  background-position: 50% 50%;
-  background-color: #ffffff; }
-
-.Button {
+.Round-icon {
   display: block;
   width: 40px;
   height: 40px;
@@ -324,10 +294,57 @@ ___CSS_LOADER_EXPORT___.push([module.id, `@font-face {
   cursor: pointer;
   padding: 0;
   transition-property: opacity;
-  transition-duration: 400ms; }
+  transition-duration: 400ms;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-color: #ffffff; }
 
-.Button:hover {
+.Round-icon:hover {
   opacity: 0.7; }
+
+.Round-icon--arrow {
+  background-image: url(${___CSS_LOADER_URL_REPLACEMENT_12___}); }
+
+.Round-icon--off {
+  background-image: url(${___CSS_LOADER_URL_REPLACEMENT_13___}); }
+
+.Round-icon--on {
+  background-image: url(${___CSS_LOADER_URL_REPLACEMENT_14___}); }
+
+.Round-icon--find {
+  background-image: url(${___CSS_LOADER_URL_REPLACEMENT_15___}); }
+
+.Round-icon--call {
+  background-image: url(${___CSS_LOADER_URL_REPLACEMENT_16___}); }
+
+.Round-icon--message {
+  background-image: url(${___CSS_LOADER_URL_REPLACEMENT_17___}); }
+
+.Round-icon--profile {
+  background-image: url(${___CSS_LOADER_URL_REPLACEMENT_18___}); }
+
+.Round-icon--repair {
+  background-image: url(${___CSS_LOADER_URL_REPLACEMENT_19___}); }
+
+.Round-icon--check {
+  background-image: url(${___CSS_LOADER_URL_REPLACEMENT_20___}); }
+
+.Submit-button {
+  color: #FFFFFF;
+  width: 136px;
+  height: 32px;
+  background-color: #FF3E79;
+  border-radius: 16px;
+  font-size: 12px;
+  font-weight: bold;
+  text-align: left; }
+  .Submit-button .Submit-button__text {
+    padding-left: 20px; }
+  .Submit-button .Submit-button__text::after {
+    content: url(${___CSS_LOADER_URL_REPLACEMENT_21___});
+    position: relative;
+    top: 1px;
+    left: 10px; }
 
 .Company-info {
   max-width: 1120px;
@@ -357,13 +374,22 @@ ___CSS_LOADER_EXPORT___.push([module.id, `@font-face {
     font-weight: bold;
     padding-left: 16px; }
   .Company-info__name h1::before {
-    content: url(${___CSS_LOADER_URL_REPLACEMENT_19___});
+    content: url(${___CSS_LOADER_URL_REPLACEMENT_22___});
     position: relative;
     left: -16px;
     top: 10px; }
   .Company-info__links-wrapper {
+    position: relative;
     margin-bottom: 24px;
     max-width: 1096px; }
+  .Company-info__links-wrapper::after {
+    content: '';
+    position: absolute;
+    width: 24px;
+    height: 40px;
+    right: 0;
+    top: 0;
+    background: linear-gradient(270deg, #F8F8F8 16.84%, rgba(248, 248, 248, 0.0001) 100%); }
   .Company-info__links {
     display: flex;
     overflow-x: auto; }
@@ -407,7 +433,8 @@ ___CSS_LOADER_EXPORT___.push([module.id, `@font-face {
     line-height: 18px;
     max-width: 490px;
     height: 90px;
-    overflow: hidden; }
+    overflow: hidden;
+    margin-bottom: 16px; }
     @media screen and (min-width: 767px) {
       .Company-info__content-text {
         height: 125px;
@@ -415,21 +442,6 @@ ___CSS_LOADER_EXPORT___.push([module.id, `@font-face {
     @media screen and (min-width: 1120px) {
       .Company-info__content-text {
         height: 140px; } }
-  .Company-info__content-button {
-    font-size: 16px;
-    margin-top: 16px;
-    color: #1B1C21;
-    line-height: 24px;
-    font-weight: 500; }
-  .Company-info__content-button::before {
-    content: url(${___CSS_LOADER_URL_REPLACEMENT_20___});
-    display: inline-block;
-    margin-right: 6px;
-    width: 24px;
-    height: 24px; }
-  .Company-info__content-button.company-info__button-rotated::before {
-    content: url(${___CSS_LOADER_URL_REPLACEMENT_20___});
-    transform: rotate(180deg); }
   .Company-info__img-wrapper {
     width: 100%;
     max-width: 550px; }
@@ -444,7 +456,7 @@ ___CSS_LOADER_EXPORT___.push([module.id, `@font-face {
       .Company-info__content-img {
         width: 100%; } }
 
-.modal-call {
+.Modal-call {
   display: none;
   position: fixed;
   left: 0;
@@ -453,65 +465,49 @@ ___CSS_LOADER_EXPORT___.push([module.id, `@font-face {
   width: 320px;
   height: 100%;
   background-color: #FFFFFF; }
-  .modal-call__wrapper {
+  .Modal-call__wrapper {
     padding: 24px 16px; }
-  .modal-call .Button__burger-off {
+  .Modal-call .Round-icon--off {
     margin-bottom: 40px; }
     @media screen and (min-width: 600px) {
-      .modal-call .Button__burger-off {
+      .Modal-call .Round-icon--off {
         transform: translate(-80px, 10px);
         position: absolute; } }
-  .modal-call__name {
+  .Modal-call__name {
     font-size: 24px;
     font-weight: 600;
     margin-bottom: 20px; }
-  .modal-call__name::before {
-    content: url(${___CSS_LOADER_URL_REPLACEMENT_19___});
+  .Modal-call__name::before {
+    content: url(${___CSS_LOADER_URL_REPLACEMENT_22___});
     position: relative;
     left: -16px;
     top: 10px; }
-  .modal-call__input {
+  .Modal-call__input {
     display: block;
     width: 100%;
     padding: 10px;
     border: 1px solid #EAEAEA;
     border-radius: 8px;
     margin-bottom: 16px; }
-  .modal-call__text {
+  .Modal-call__text {
     font-size: 14px;
     color: #7E7E82;
     line-height: 16px;
     margin-bottom: 18px; }
-  .modal-call__text-link {
+  .Modal-call__text-link {
     color: #FF3E79; }
-  .modal-call__button-wrapper {
+  .Modal-call__button-wrapper {
     display: flex;
     justify-content: flex-end; }
-  .modal-call__button-submit {
-    color: #FFFFFF;
-    width: 136px;
-    height: 32px;
-    background-color: #FF3E79;
-    border-radius: 16px;
-    font-size: 12px;
-    font-weight: bold;
-    text-align: left; }
-  .modal-call__button-text {
-    padding-left: 20px; }
-  .modal-call__button-text::after {
-    content: url(${___CSS_LOADER_URL_REPLACEMENT_21___});
-    position: relative;
-    top: 1px;
-    left: 10px; }
   @media screen and (min-width: 600px) {
-    .modal-call {
+    .Modal-call {
       width: 440px;
       left: auto;
       right: 0;
       border-left: 1px solid #D9FFF5;
       box-shadow: 16px 0px 52px 0px #0E185033, -2px 0px 4px 0px #454F7E05; } }
 
-.modal-feedback {
+.Modal-feedback {
   display: none;
   position: fixed;
   z-index: 20;
@@ -520,44 +516,44 @@ ___CSS_LOADER_EXPORT___.push([module.id, `@font-face {
   width: 320px;
   height: 100vh;
   background-color: #FFFFFF; }
-  .modal-feedback__wrapper {
+  .Modal-feedback__wrapper {
     padding: 24px 16px; }
-  .modal-feedback .Button__burger-off {
+  .Modal-feedback .Round-icon--off {
     margin-bottom: 40px; }
     @media screen and (min-width: 600px) {
-      .modal-feedback .Button__burger-off {
+      .Modal-feedback .Round-icon--off {
         transform: translate(-80px, 10px);
         position: absolute; } }
-  .modal-feedback__name {
+  .Modal-feedback__name {
     font-size: 24px;
     font-weight: 600;
     margin-bottom: 20px; }
-  .modal-feedback__name::before {
-    content: url(${___CSS_LOADER_URL_REPLACEMENT_19___});
+  .Modal-feedback__name::before {
+    content: url(${___CSS_LOADER_URL_REPLACEMENT_22___});
     position: relative;
     left: -16px;
     top: 10px; }
-  .modal-feedback__input {
+  .Modal-feedback__input {
     display: block;
     width: 100%;
     padding: 10px;
     border: 1px solid #EAEAEA;
     border-radius: 8px;
     margin-bottom: 16px; }
-  .modal-feedback__textarea {
+  .Modal-feedback__textarea {
     height: 118px;
     width: 288px; }
-  .modal-feedback__text {
+  .Modal-feedback__text {
     font-size: 14px;
     color: #7E7E82;
     line-height: 16px;
     margin-bottom: 18px; }
-  .modal-feedback__text-link {
+  .Modal-feedback__text-link {
     color: #FF3E79; }
-  .modal-feedback__button-wrapper {
+  .Modal-feedback__button-wrapper {
     display: flex;
     justify-content: flex-end; }
-  .modal-feedback__button-submit {
+  .Modal-feedback__button-submit {
     color: #FFFFFF;
     width: 136px;
     height: 32px;
@@ -566,15 +562,15 @@ ___CSS_LOADER_EXPORT___.push([module.id, `@font-face {
     font-size: 12px;
     font-weight: bold;
     text-align: left; }
-  .modal-feedback__button-text {
+  .Modal-feedback__button-text {
     padding-left: 20px; }
-  .modal-feedback__button-text::after {
+  .Modal-feedback__button-text::after {
     content: url(${___CSS_LOADER_URL_REPLACEMENT_21___});
     position: relative;
     top: 1px;
     left: 10px; }
   @media screen and (min-width: 600px) {
-    .modal-feedback {
+    .Modal-feedback {
       width: 440px;
       left: auto;
       right: 0;
@@ -583,8 +579,10 @@ ___CSS_LOADER_EXPORT___.push([module.id, `@font-face {
 
 .Repair-section {
   max-width: 1120px;
-  border-top: 1px solid #D9FFF5;
-  margin-bottom: 32px; }
+  border-top: 1px solid #D9FFF5; }
+  @media screen and (min-width: 767px) {
+    .Repair-section {
+      margin-bottom: 32px; } }
   .Repair-section__name {
     display: block;
     height: 56px;
@@ -595,47 +593,35 @@ ___CSS_LOADER_EXPORT___.push([module.id, `@font-face {
     color: #7E7E82;
     font-size: 16px;
     text-transform: uppercase; }
-  .Repair-section__button {
-    display: flex;
-    background-color: #F8F8F8;
-    margin-left: 32px; }
+  .Repair-section .Increase-content__button {
+    margin-left: 24px; }
     @media screen and (max-width: 767px) {
-      .Repair-section__button {
+      .Repair-section .Increase-content__button {
         display: none; } }
-  .Repair-section__button::before {
-    content: '';
-    background-image: url(${___CSS_LOADER_URL_REPLACEMENT_22___});
-    background-repeat: no-repeat;
-    background-position: 50% 50%;
-    align-self: center;
-    height: 12px;
-    width: 8px;
-    margin-right: 17px; }
-  .Repair-section__button.Repair-section_button__rotate::before {
-    transform: rotate(180deg); }
+  .Repair-section .swiper-container::after {
+    content: "";
+    position: absolute;
+    right: 0;
+    top: 0px;
+    z-index: 1;
+    width: 21px;
+    background-color: black;
+    height: 81px;
+    background: linear-gradient(to left, #F8F8F8 16.84%, rgba(248, 248, 248, 0.0001) 100%); }
+    @media screen and (min-width: 767px) {
+      .Repair-section .swiper-container::after {
+        display: none; } }
   .Repair-section .swiper-container {
     display: block;
     position: relative;
     width: 100vw;
     height: 130px;
-    overflow: hidden;
-    margin-bottom: 24px; }
+    overflow: hidden; }
     @media screen and (min-width: 767px) {
       .Repair-section .swiper-container {
         width: 100%;
-        height: 160px; } }
-    .Repair-section .swiper-container .swiper-container::after {
-      content: "";
-      position: absolute;
-      right: 0;
-      top: 0px;
-      z-index: 1;
-      width: 21px;
-      height: 81px;
-      background: linear-gradient(to left, #F8F8F8 16.84%, rgba(248, 248, 248, 0.0001) 100%); }
-      @media screen and (min-width: 767px) {
-        .Repair-section .swiper-container .swiper-container::after {
-          display: none; } }
+        height: 160px;
+        margin-bottom: 24px; } }
     .Repair-section .swiper-container .swiper {
       width: 400px;
       height: 100%; }
@@ -704,15 +690,9 @@ ___CSS_LOADER_EXPORT___.push([module.id, `@font-face {
                 width: 240px; } }
             .Repair-section .swiper-container .swiper .swiper-wrapper .swiper-slide .Repair-section__card .Repair-section_img--moved-left {
               transform: translateX(-20px); }
-            .Repair-section .swiper-container .swiper .swiper-wrapper .swiper-slide .Repair-section__card .Repair-section__card-button {
-              width: 40px;
-              height: 40px;
-              background-image: url(${___CSS_LOADER_URL_REPLACEMENT_23___});
-              background-repeat: no-repeat;
-              background-position: 50% 50%; }
         .Repair-section .swiper-container .swiper .swiper-wrapper .swiper-slide:hover {
           transform: scale(1.05); }
-        .Repair-section .swiper-container .swiper .swiper-wrapper .swiper-slide:hover .Repair-section__card-button {
+        .Repair-section .swiper-container .swiper .swiper-wrapper .swiper-slide:hover .Round-icon--arrow {
           opacity: 0.7; }
 
 .Repair-second {
@@ -729,24 +709,23 @@ ___CSS_LOADER_EXPORT___.push([module.id, `@font-face {
     color: #7E7E82;
     font-size: 16px;
     text-transform: uppercase; }
-  .Repair-second__button {
-    display: flex;
-    background-color: #F8F8F8;
-    margin-left: 32px; }
+  .Repair-second .Increase-content__button {
+    margin-left: 24px; }
     @media screen and (max-width: 767px) {
-      .Repair-second__button {
+      .Repair-second .Increase-content__button {
         display: none; } }
-  .Repair-second__button::before {
-    content: '';
-    background-image: url(${___CSS_LOADER_URL_REPLACEMENT_22___});
-    background-repeat: no-repeat;
-    background-position: 50% 50%;
-    align-self: center;
-    height: 12px;
-    width: 8px;
-    margin-right: 17px; }
-  .Repair-second__button.Repair-second_button__rotate::before {
-    transform: rotate(180deg); }
+  .Repair-second .swiper-container::after {
+    content: "";
+    position: absolute;
+    right: 0;
+    top: 0px;
+    z-index: 1;
+    width: 21px;
+    height: 81px;
+    background: linear-gradient(to left, #F8F8F8 16.84%, rgba(248, 248, 248, 0.0001) 100%); }
+    @media screen and (min-width: 767px) {
+      .Repair-second .swiper-container::after {
+        display: none; } }
   .Repair-second .swiper-container {
     display: block;
     position: relative;
@@ -758,18 +737,6 @@ ___CSS_LOADER_EXPORT___.push([module.id, `@font-face {
       .Repair-second .swiper-container {
         width: 100%;
         height: 160px; } }
-    .Repair-second .swiper-container .swiper-container::after {
-      content: "";
-      position: absolute;
-      right: 0;
-      top: 0px;
-      z-index: 1;
-      width: 21px;
-      height: 81px;
-      background: linear-gradient(to left, #F8F8F8 16.84%, rgba(248, 248, 248, 0.0001) 100%); }
-      @media screen and (min-width: 767px) {
-        .Repair-second .swiper-container .swiper-container::after {
-          display: none; } }
     .Repair-second .swiper-container .swiper {
       width: 400px;
       height: 100%; }
@@ -840,17 +807,12 @@ ___CSS_LOADER_EXPORT___.push([module.id, `@font-face {
               align-self: flex-start;
               transform: translateX(10px);
               padding-top: 16px; }
-            .Repair-second .swiper-container .swiper .swiper-wrapper .swiper-slide .Repair-second__card .Repair-second__card-button {
+            .Repair-second .swiper-container .swiper .swiper-wrapper .swiper-slide .Repair-second__card .Round-icon--arrow {
               align-self: flex-end;
-              transform: translate(-10px, -16px);
-              width: 40px;
-              height: 40px;
-              background-image: url(${___CSS_LOADER_URL_REPLACEMENT_23___});
-              background-repeat: no-repeat;
-              background-position: 50% 50%; }
+              transform: translate(-10px, -16px); }
         .Repair-second .swiper-container .swiper .swiper-wrapper .swiper-slide:hover {
           transform: scale(1.05); }
-        .Repair-second .swiper-container .swiper .swiper-wrapper .swiper-slide:hover .Repair-second__card-button {
+        .Repair-second .swiper-container .swiper .swiper-wrapper .swiper-slide:hover .Round-icon--arrow {
           opacity: 0.7; }
 
 .Price {
@@ -895,13 +857,25 @@ ___CSS_LOADER_EXPORT___.push([module.id, `@font-face {
       font-size: 16px;
       font-weight: 500; }
     .Price .Price__text-holder .Price__button::after {
-      content: url(${___CSS_LOADER_URL_REPLACEMENT_24___});
+      content: url(${___CSS_LOADER_URL_REPLACEMENT_23___});
       display: inline-block;
       position: absolute;
       transform: translateX(8px); }
       @media screen and (min-width: 767px) {
         .Price .Price__text-holder .Price__button::after {
           width: 60%; } }
+  .Price .swiper-container::after {
+    content: "";
+    position: absolute;
+    right: 0;
+    top: 0px;
+    z-index: 1;
+    width: 21px;
+    height: 81px;
+    background: linear-gradient(to left, #F8F8F8 16.84%, rgba(248, 248, 248, 0.0001) 100%); }
+    @media screen and (min-width: 767px) {
+      .Price .swiper-container::after {
+        display: none; } }
   .Price .swiper-container {
     display: block;
     position: relative;
@@ -913,18 +887,6 @@ ___CSS_LOADER_EXPORT___.push([module.id, `@font-face {
       .Price .swiper-container {
         width: 100%;
         height: 100%; } }
-    .Price .swiper-container .swiper-container::after {
-      content: "";
-      position: absolute;
-      right: 0;
-      top: 0px;
-      z-index: 1;
-      width: 21px;
-      height: 81px;
-      background: linear-gradient(to left, #F8F8F8 16.84%, rgba(248, 248, 248, 0.0001) 100%); }
-      @media screen and (min-width: 767px) {
-        .Price .swiper-container .swiper-container::after {
-          display: none; } }
     .Price .swiper-container .swiper {
       width: 400px;
       height: 100%; }
@@ -1066,17 +1028,21 @@ ___CSS_LOADER_EXPORT___.push([module.id, `@font-face {
                 .Price .swiper-container .swiper .swiper-wrapper .swiper-slide .Price__card .Price__holder {
                   width: 40%; } }
             .Price .swiper-container .swiper .swiper-wrapper .swiper-slide .Price__card .Price__card-button {
+              display: flex;
               width: 120px;
               transform: translateY(10px);
               border-radius: 16px;
               height: 32px;
               font-weight: 600;
               text-align: left;
-              background-color: #FF3E79; }
+              background-color: #FF3E79;
+              transition-property: opacity, transform;
+              transition-duration: 400ms, 400ms; }
               @media screen and (min-width: 767px) {
                 .Price .swiper-container .swiper .swiper-wrapper .swiper-slide .Price__card .Price__card-button {
                   transform: translateY(0); } }
             .Price .swiper-container .swiper .swiper-wrapper .swiper-slide .Price__card .Price__button-text {
+              align-self: center;
               text-transform: uppercase;
               color: #FFFFFF;
               padding-left: 12px;
@@ -1100,7 +1066,8 @@ ___CSS_LOADER_EXPORT___.push([module.id, `@font-face {
         .Price .swiper-container .swiper .swiper-wrapper .swiper-slide:last-child .Price__card::after {
           display: none; }
         .Price .swiper-container .swiper .swiper-wrapper .swiper-slide:hover .Price__card-button {
-          opacity: 0.7; }
+          opacity: 0.7;
+          transform: scale(1.05); }
 
 .Company-info__footer {
   display: flex;
@@ -1147,7 +1114,7 @@ body {
   font-family: "TT Lakes";
   background-color: #F8F8F8; }
 
-.modalBackdrop {
+.modal__backdrop {
   position: fixed;
   display: none;
   z-index: 10;
@@ -1157,7 +1124,7 @@ body {
   bottom: 0;
   background-color: rgba(255, 255, 255, 0.9); }
 
-.burgerMenuBackDrop {
+.Mobile-menu__backdrop {
   position: fixed;
   display: none;
   z-index: 1;
@@ -1167,14 +1134,14 @@ body {
   bottom: 0;
   background-color: rgba(255, 255, 255, 0.9); }
 
-.app-wrapper {
+.App-wrapper {
   height: 100%;
   width: 100%; }
   @media screen and (min-width: 1440px) {
-    .app-wrapper {
+    .App-wrapper {
       display: flex;
       justify-content: center; } }
-`, "",{"version":3,"sources":["webpack://./styles/fonts.scss","webpack://./styles/mobile-menu/mobile-menu-header.scss","webpack://./styles/mobile-menu/mobile-menu-main.scss","webpack://./styles/mobile-menu/mobile-menu-footer.scss","webpack://./styles/mobile-menu/mobile-menu.scss","webpack://./styles/header/header.scss","webpack://./styles/buttons/buttons.scss","webpack://./styles/buttons/button.scss","webpack://./styles/company-info/company-info.scss","webpack://./styles/modal-call/modal-call.scss","webpack://./styles/modal-feedback/modal-feedback.scss","webpack://./styles/swipers/swiper-1.scss","webpack://./styles/swipers/swiper-2.scss","webpack://./styles/swipers/swiper-3.scss","webpack://./styles/footer/footer.scss","webpack://./styles/style.scss"],"names":[],"mappings":"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","sourcesContent":["@font-face {\n    font-family: 'TT Lakes';\n    src: url('../Fonts/TTLakes-Regular.eot'),\n        url('../Fonts/TTLakes-Regular.woff'),\n        url('../Fonts/TTLakes-Regular.ttf');\n    font-weight: 400;\n    font-style: normal;\n}\n\n@font-face {\n    font-family: 'TT Lakes';\n    src: url('../Fonts/TTLakes-Medium.eot'),\n        url('../Fonts/TTLakes-Medium.woff'),\n        url('../Fonts/TTLakes-Medium.ttf');\n    font-weight: 500;\n    font-style: normal;\n}\n\n@font-face {\n    font-family: 'TT Lakes';\n    src: url('../Fonts/TTLakes-Bold.eot'),\n        url('../Fonts/TTLakes-Bold.woff'),\n        url('../Fonts/TTLakes-Bold.ttf');\n    font-weight: bold;\n    font-style: normal;\n}",".Mobile-menu__header {\r\n    display: flex;\r\n    justify-content: space-between;\r\n    align-items: center;\r\n    margin: 0 16px;\r\n    margin-right: 24px;\r\n    margin-top: 18px;\r\n\r\n    @media screen and (min-width: 1440px) {\r\n        margin: 0 25px;\r\n        margin-top: 30px;\r\n    }\r\n\r\n    .Mobile-menu__wrapper-left {\r\n        display: flex;\r\n        align-items: center;\r\n        gap: 16px;\r\n    }\r\n\r\n    .Button__burger-off {\r\n        @media screen and (min-width: 1440px) {\r\n            display: none;\r\n        }\r\n    }\r\n\r\n}","$text-cl: #1B1C21;\r\n$text-cl-active: #7E7E82;\r\n$background-cl-hover: #f0f0f0;\r\n\r\n.Main-wrapper {\r\n    display: flex;\r\n    flex-direction: column;\r\n    justify-content: space-between;\r\n    margin-bottom: 32px;\r\n\r\n    @media screen and (min-width: 767px) {\r\n        height: fit-content;\r\n        margin-bottom: 200px;\r\n    }\r\n\r\n    &__links {\r\n        padding-top: 16px;\r\n\r\n        @media screen and (min-width: 767px) {\r\n            padding-top: 46px;\r\n        }\r\n\r\n\r\n        @media screen and (min-width: 1440px) {\r\n            margin-top: 0;\r\n        }\r\n    }\r\n\r\n    &__container {\r\n        display: flex;\r\n        flex-direction: column;\r\n        list-style: none;\r\n\r\n        padding: 0;\r\n        margin: 0;\r\n\r\n        li a {\r\n            display: block;\r\n\r\n            padding: 10px 0;\r\n            margin-bottom: 6px;\r\n            padding-left: 24px;\r\n\r\n            font-weight: 500;\r\n            font-size: 16px;\r\n            color: $text-cl;\r\n\r\n            transition-property: background-color;\r\n            transition-duration: 300ms;\r\n        }\r\n\r\n        li a:hover {\r\n            background-color: $background-cl-hover;\r\n        }\r\n\r\n        li .active {\r\n            color: $text-cl-active;\r\n            position: relative;\r\n        }\r\n\r\n        li .active::before {\r\n            content: url(\"../img/highlight.svg\");\r\n            position: absolute;\r\n            left: 0px;\r\n            top: 0px;\r\n        }\r\n    }\r\n\r\n}","$text-cl: #1B1C21;\r\n$text-cl-checked: #7E7E82;\r\n\r\n.footer {\r\n    margin-left: 24px;\r\n\r\n    &__buttons {\r\n        display: flex;\r\n\r\n        gap: 16px;\r\n\r\n        margin-bottom: 16px;\r\n    }\r\n\r\n    &__email {\r\n        margin-bottom: 12px;\r\n    }\r\n\r\n    &__email a {\r\n        font-size: 16px;\r\n        font-weight: 600;\r\n\r\n        color: $text-cl;\r\n    }\r\n\r\n    &__phone a {\r\n        color: $text-cl;\r\n\r\n        font-size: 24px;\r\n        font-weight: 700;\r\n    }\r\n\r\n    &__radio {\r\n        display: flex;\r\n\r\n        margin-top: 8px;\r\n        margin-bottom: 32px;\r\n\r\n        gap: 7px;\r\n\r\n        @media screen and (min-width: 767px) {\r\n            padding-top: 40px;\r\n        }\r\n    }\r\n\r\n    &_radio-label {\r\n        color: $text-cl;\r\n\r\n        font-weight: 500;\r\n    }\r\n\r\n    &_radio-label input {\r\n        display: none;\r\n    }\r\n\r\n    &_radio-label>input+span {\r\n        transition-property: color;\r\n        transition-duration: 400ms;\r\n    }\r\n\r\n    &_radio-label>input:checked+span {\r\n        color: $text-cl-checked;\r\n    }\r\n\r\n    &_radio-label>input+span:hover {\r\n        color: $text-cl-checked;\r\n    }\r\n}","@import './mobile-menu-header.scss';\r\n@import './mobile-menu-main.scss';\r\n@import './mobile-menu-footer.scss';\r\n\r\n$background-cl: #FFFFFF;\r\n\r\n.Mobile-menu {\r\n    display: none;\r\n    flex-direction: column;\r\n    position: absolute;\r\n    z-index: 5;\r\n    top: 0;\r\n    left: 0;\r\n    width: 330px;\r\n    background-color: $background-cl;\r\n    box-shadow:\r\n        16px 0 52px 0 #0E185033,\r\n        -2px 0 4px 0 #454F7E05;\r\n\r\n    @media screen and (min-width: 321px) and (max-width: 360px) {\r\n        width: 100%\r\n    }\r\n\r\n    @media screen and (min-width: 1439px) {\r\n        display: flex;\r\n        position: static;\r\n        box-shadow: none;\r\n    }\r\n}","$border-cl: #D9FFF5;\r\n$background-cl: #FFFFFF;\r\n\r\n.Header {\r\n    display: flex;\r\n    width: 100%;\r\n    height: 88px;\r\n    max-width: 1120px;\r\n    padding: 0 16px;\r\n    margin-bottom: 16px;\r\n    justify-content: space-between;\r\n    border-bottom: 1px solid $border-cl;\r\n    background-color: #FFFFFF;\r\n\r\n    @media screen and (min-width: 1120px) {\r\n        display: none;\r\n    }\r\n\r\n    &__wrapper-left {\r\n        display: flex;\r\n        align-items: center;\r\n        gap: 16px;\r\n    }\r\n\r\n    &__header-button {\r\n\r\n        @media screen and (min-width: 767px) and (max-width: 1120px) {\r\n            display: flex;\r\n            align-items: center;\r\n            gap: 20px;\r\n        }\r\n    }\r\n\r\n    &__header-button::after {\r\n        @media screen and (min-width: 767px) and (max-width: 1120px) {\r\n            content: url('./../img/divider.svg');\r\n            display: inline-block;\r\n            height: 32px;\r\n            padding-right: 2px;\r\n        }\r\n    }\r\n\r\n\r\n    &__wrapper-left::after {\r\n        content: url('./../img/divider.svg');\r\n        height: 32px;\r\n\r\n        @media screen and (min-width: 767px) and (max-width: 1120px) {\r\n            content: '';\r\n        }\r\n    }\r\n\r\n    &__wrapper-right {\r\n        display: flex;\r\n    }\r\n\r\n    &__wrapper-buttons--left {\r\n        display: none;\r\n        align-items: center;\r\n        gap: 16px;\r\n\r\n        @media screen and (min-width: 767px) and (max-width: 1120px) {\r\n            display: flex;\r\n        }\r\n    }\r\n\r\n    &__wrapper-buttons--right {\r\n        display: flex;\r\n        align-items: center;\r\n        gap: 16px;\r\n    }\r\n\r\n    &__wrapper-buttons--right::before {\r\n        @media screen and (min-width: 767px) and (max-width: 1120px) {\r\n            content: url('./../img/divider.svg');\r\n            height: 32px;\r\n            padding-left: 20px;\r\n            padding-right: 4px;\r\n        }\r\n    }\r\n\r\n\r\n    @media screen and (min-width: 767px) and (max-width: 1120px) {}\r\n}","$background-cl: #ffffff;\r\n\r\n.Button__burger-off {\r\n    background-image: url(\"../img/burger-off.svg\");\r\n    background-repeat: no-repeat;\r\n    background-position: 50% 50%;\r\n    background-color: $background-cl\r\n}\r\n\r\n.Button__burger-on {\r\n    background-image: url(\"../img/burger-on.svg\");\r\n    background-repeat: no-repeat;\r\n    background-position: 50% 50%;\r\n    background-color: $background-cl\r\n}\r\n\r\n.Button__find {\r\n    background-image: url(\"../img/search.svg\");\r\n    background-repeat: no-repeat;\r\n    background-position: 50% 50%;\r\n    background-color: $background-cl\r\n}\r\n\r\n.Button__call {\r\n    background-image: url(\"../img/call.svg\");\r\n    background-repeat: no-repeat;\r\n    background-position: 50% 50%;\r\n\r\n    background-color: $background-cl;\r\n}\r\n\r\n.Button__message {\r\n    background-image: url(\"../img/chat.svg\");\r\n    background-repeat: no-repeat;\r\n    background-position: 50% 50%;\r\n\r\n    background-color: $background-cl;\r\n}\r\n\r\n.Button__profile {\r\n    background-image: url(\"../img/profile.svg\");\r\n    background-repeat: no-repeat;\r\n    background-position: 50% 50%;\r\n\r\n    background-color: $background-cl;\r\n}\r\n\r\n.Button__repair {\r\n    background-image: url(\"../img/repair.svg\");\r\n    background-repeat: no-repeat;\r\n    background-position: 50% 50%;\r\n    background-color: $background-cl\r\n}\r\n\r\n.Button__check {\r\n    background-image: url(\"../img/checkstatus.svg\");\r\n    background-repeat: no-repeat;\r\n    background-position: 50% 50%;\r\n    background-color: $background-cl\r\n}","@import './buttons.scss';\r\n\r\n.Button {\r\n    display: block;\r\n    width: 40px;\r\n    height: 40px;\r\n    border: none;\r\n    cursor: pointer;\r\n    padding: 0;\r\n    transition-property: opacity;\r\n    transition-duration: 400ms;\r\n}\r\n\r\n.Button:hover {\r\n    opacity: 0.7;\r\n}","$name-cl: #1B1C21;\r\n$links-cl: #7E7E82;\r\n$links-bg-cl: #FFFFFF;\r\n$links-border-cl: #B8FFEC;\r\n\r\n.Company-info {\r\n    max-width: 1120px;\r\n    margin-bottom: 24px;\r\n\r\n    &__name {\r\n        margin-bottom: 24px;\r\n        display: flex;\r\n        justify-content: space-between;\r\n\r\n        @media screen and (min-width: 1120px) {\r\n            margin-top: 42px;\r\n            margin-bottom: 8px;\r\n        }\r\n    }\r\n\r\n    &__name-buttons {\r\n        display: none;\r\n        gap: 32px;\r\n        margin-right: 30px;\r\n\r\n        @media screen and (min-width: 1120px) {\r\n            display: flex;\r\n        }\r\n    }\r\n\r\n    &__name-buttons label {\r\n        display: flex;\r\n        gap: 8px;\r\n        align-items: center;\r\n    }\r\n\r\n    &__name h1 {\r\n        color: $name-cl;\r\n\r\n        font-size: 28px;\r\n        font-weight: bold;\r\n\r\n        padding-left: 16px;\r\n    }\r\n\r\n    &__name h1::before {\r\n        content: url('./../img/highlight.svg');\r\n        position: relative;\r\n        left: -16px;\r\n        top: 10px\r\n    }\r\n\r\n    &__links-wrapper {\r\n        margin-bottom: 24px;\r\n        max-width: 1096px;\r\n    }\r\n\r\n    &__links {\r\n        display: flex;\r\n        overflow-x: auto;\r\n\r\n        @media screen and (min-width: 1096px) {\r\n            flex-wrap: wrap;\r\n            overflow-x: auto;\r\n        }\r\n    }\r\n\r\n    &__link {\r\n        display: block;\r\n        color: $links-cl;\r\n        border: 2px solid transparent;\r\n        padding: 8px 0;\r\n        border-radius: 6px;\r\n        padding-left: 16px;\r\n        padding-right: 8px;\r\n        white-space: nowrap;\r\n    }\r\n\r\n    &__link:hover {\r\n        border-color: $links-border-cl;\r\n        background-color: $links-bg-cl;\r\n    }\r\n\r\n    &__content {\r\n        padding: 0 16px;\r\n        display: flex;\r\n        gap: 48px;\r\n        flex-direction: column;\r\n        margin-bottom: 45px;\r\n\r\n        @media screen and (min-width: 767px) {\r\n            padding: 0 24px;\r\n            flex-direction: row;\r\n            justify-content: space-between;\r\n        }\r\n    }\r\n\r\n    &__content-wrapper {\r\n        width: 100%;\r\n        height: 130px;\r\n\r\n        @media screen and (min-width: 767px) {\r\n            height: 160px;\r\n            width: 50%;\r\n        }\r\n    }\r\n\r\n    &__content-text {\r\n        color: #1B1C21;\r\n        font-size: 14px;\r\n        line-height: 18px;\r\n        max-width: 490px;\r\n        height: 90px;\r\n        overflow: hidden;\r\n\r\n        @media screen and (min-width: 767px) {\r\n            height: 125px;\r\n            width: 100%;\r\n        }\r\n\r\n        @media screen and (min-width: 1120px) {\r\n            height: 140px;\r\n        }\r\n    }\r\n\r\n    &__content-button {\r\n        font-size: 16px;\r\n        margin-top: 16px;\r\n        color: #1B1C21;\r\n        line-height: 24px;\r\n        font-weight: 500;\r\n    }\r\n\r\n    &__content-button::before {\r\n        content: url('./../img/expand.svg');\r\n        display: inline-block;\r\n        margin-right: 6px;\r\n        width: 24px;\r\n        height: 24px;\r\n    }\r\n\r\n    &__content-button.company-info__button-rotated::before {\r\n        content: url('./../img/expand.svg');\r\n        transform: rotate(180deg);\r\n    }\r\n\r\n    &__img-wrapper {\r\n        width: 100%;\r\n        max-width: 550px;\r\n\r\n        @media screen and (min-width: 767px) and (max-width: 1120px) {\r\n            width: 50%;\r\n            flex-grow: 1;\r\n        }\r\n    }\r\n\r\n    &__content-img {\r\n        width: 100%;\r\n        max-width: 550px;\r\n\r\n        @media screen and (min-width: 767px) and (max-width: 1120px) {\r\n            width: 100%;\r\n        }\r\n    }\r\n}","$background-cl: #FFFFFF;\r\n\r\n.modal-call {\r\n    display: none;\r\n    position: fixed;\r\n    left: 0;\r\n    top: 0;\r\n    z-index: 20;\r\n    width: 320px;\r\n    height: 100%;\r\n    background-color: $background-cl;\r\n\r\n\r\n    &__wrapper {\r\n        padding: 24px 16px;\r\n    }\r\n\r\n    .Button__burger-off {\r\n        margin-bottom: 40px;\r\n\r\n        @media screen and (min-width: 600px) {\r\n            transform: translate(-80px, 10px);\r\n            position: absolute;\r\n        }\r\n    }\r\n\r\n    &__name {\r\n        font-size: 24px;\r\n        font-weight: 600;\r\n        margin-bottom: 20px;\r\n    }\r\n\r\n    &__name::before {\r\n        content: url('./../img/highlight.svg');\r\n        position: relative;\r\n        left: -16px;\r\n        top: 10px;\r\n    }\r\n\r\n    &__input {\r\n        display: block;\r\n        width: 100%;\r\n        padding: 10px;\r\n        border: 1px solid #EAEAEA;\r\n        border-radius: 8px;\r\n        margin-bottom: 16px;\r\n    }\r\n\r\n    &__text {\r\n        font-size: 14px;\r\n        color: #7E7E82;\r\n        line-height: 16px;\r\n        margin-bottom: 18px;\r\n    }\r\n\r\n    &__text-link {\r\n        color: #FF3E79;\r\n    }\r\n\r\n    &__button-wrapper {\r\n        display: flex;\r\n        justify-content: flex-end;\r\n    }\r\n\r\n    &__button-submit {\r\n        color: #FFFFFF;\r\n        width: 136px;\r\n        height: 32px;\r\n        background-color: #FF3E79;\r\n        border-radius: 16px;\r\n        font-size: 12px;\r\n        font-weight: bold;\r\n        text-align: left;\r\n    }\r\n\r\n    &__button-text {\r\n        padding-left: 20px;\r\n    }\r\n\r\n    &__button-text::after {\r\n        content: url('./../img/dropdown.svg');\r\n        position: relative;\r\n        top: 1px;\r\n        left: 10px;\r\n    }\r\n\r\n    @media screen and (min-width: 600px) {\r\n        width: 440px;\r\n        left: auto;\r\n        right: 0;\r\n        border-left: 1px solid #D9FFF5;\r\n        box-shadow: 16px 0px 52px 0px #0E185033,\r\n            -2px 0px 4px 0px #454F7E05;\r\n    }\r\n}","$background-cl: #FFFFFF;\r\n\r\n.modal-feedback {\r\n    display: none;\r\n    position: fixed;\r\n    z-index: 20;\r\n    left: 0;\r\n    top: 0;\r\n    width: 320px;\r\n    height: 100vh;\r\n    background-color: $background-cl;\r\n\r\n\r\n    &__wrapper {\r\n        padding: 24px 16px;\r\n    }\r\n\r\n    .Button__burger-off {\r\n        margin-bottom: 40px;\r\n\r\n        @media screen and (min-width: 600px) {\r\n            transform: translate(-80px, 10px);\r\n            position: absolute;\r\n        }\r\n    }\r\n\r\n    &__name {\r\n        font-size: 24px;\r\n        font-weight: 600;\r\n        margin-bottom: 20px;\r\n    }\r\n\r\n    &__name::before {\r\n        content: url('./../img/highlight.svg');\r\n        position: relative;\r\n        left: -16px;\r\n        top: 10px;\r\n    }\r\n\r\n    &__input {\r\n        display: block;\r\n        width: 100%;\r\n        padding: 10px;\r\n        border: 1px solid #EAEAEA;\r\n        border-radius: 8px;\r\n        margin-bottom: 16px;\r\n    }\r\n\r\n    &__textarea {\r\n        height: 118px;\r\n        width: 288px;\r\n    }\r\n\r\n    &__text {\r\n        font-size: 14px;\r\n        color: #7E7E82;\r\n        line-height: 16px;\r\n        margin-bottom: 18px;\r\n    }\r\n\r\n    &__text-link {\r\n        color: #FF3E79;\r\n    }\r\n\r\n    &__button-wrapper {\r\n        display: flex;\r\n        justify-content: flex-end;\r\n    }\r\n\r\n    &__button-submit {\r\n        color: #FFFFFF;\r\n        width: 136px;\r\n        height: 32px;\r\n        background-color: #FF3E79;\r\n        border-radius: 16px;\r\n        font-size: 12px;\r\n        font-weight: bold;\r\n        text-align: left;\r\n    }\r\n\r\n    &__button-text {\r\n        padding-left: 20px;\r\n    }\r\n\r\n    &__button-text::after {\r\n        content: url('./../img/dropdown.svg');\r\n        position: relative;\r\n        top: 1px;\r\n        left: 10px;\r\n    }\r\n\r\n    @media screen and (min-width: 600px) {\r\n        width: 440px;\r\n        left: auto;\r\n        right: 0;\r\n        border-left: 1px solid #D9FFF5;\r\n        box-shadow: 16px 0px 52px 0px #0E185033,\r\n            -2px 0px 4px 0px #454F7E05;\r\n    }\r\n}",".Repair-section {\r\n    max-width: 1120px;\r\n    border-top: 1px solid #D9FFF5;\r\n    margin-bottom: 32px;\r\n\r\n    &__name {\r\n        display: block;\r\n        height: 56px;\r\n        padding-left: 24px;\r\n        padding-top: 16px;\r\n\r\n        margin-bottom: 16px;\r\n\r\n        background-image: linear-gradient(to right, #F8F8F8, #FFFFFF);\r\n        color: #7E7E82;\r\n\r\n        font-size: 16px;\r\n        text-transform: uppercase;\r\n    }\r\n\r\n    &__button {\r\n        display: flex;\r\n        background-color: #F8F8F8;\r\n        margin-left: 32px;\r\n\r\n        @media screen and (max-width: 767px) {\r\n            display: none;\r\n        }\r\n    }\r\n\r\n    &__button::before {\r\n        content: '';\r\n        background-image: url(\"./../img/repait-section-button.svg\");\r\n        background-repeat: no-repeat;\r\n        background-position: 50% 50%;\r\n        align-self: center;\r\n        height: 12px;\r\n        width: 8px;\r\n        margin-right: 17px;\r\n    }\r\n\r\n    &__button.Repair-section_button__rotate::before {\r\n        transform: rotate(180deg);\r\n    }\r\n\r\n    .swiper-container {\r\n        display: block;\r\n        position: relative;\r\n        width: 100vw;\r\n        height: 130px;\r\n        overflow: hidden;\r\n        margin-bottom: 24px;\r\n\r\n        @media screen and (min-width: 767px) {\r\n            width: 100%;\r\n            height: 160px;\r\n        }\r\n\r\n        .swiper-container::after {\r\n            content: \"\";\r\n            position: absolute;\r\n            right: 0;\r\n            top: 0px;\r\n            z-index: 1;\r\n            width: 21px;\r\n            height: 81px;\r\n            background: linear-gradient(to left, #F8F8F8 16.84%, rgba(248, 248, 248, 0.0001) 100%);\r\n\r\n            @media screen and (min-width: 767px) {\r\n                display: none;\r\n            }\r\n        }\r\n\r\n        .swiper {\r\n            width: 400px;\r\n            height: 100%;\r\n\r\n\r\n            @media screen and (min-width: 400px) {\r\n                width: 600px;\r\n            }\r\n\r\n            @media screen and (min-width: 600px) {\r\n                width: 800px;\r\n            }\r\n\r\n\r\n            @media screen and (min-width: 767px) {\r\n                width: 100%;\r\n                height: 100%;\r\n                max-width: 1100px;\r\n                margin-left: 24px;\r\n            }\r\n\r\n            @media screen and (min-width: 1119px) {\r\n                margin-left: 32px;\r\n            }\r\n\r\n            .swiper-pagination {\r\n                transform: translateX(-100px) translateY(-24px);\r\n\r\n                @media screen and (min-width: 400px) {\r\n                    transform: translateX(-200px) translateY(-24px);\r\n                }\r\n\r\n                @media screen and (min-width: 600px) {\r\n                    transform: translateX(-300px) translateY(-24px);\r\n                }\r\n            }\r\n\r\n\r\n            .swiper-wrapper {\r\n                display: flex;\r\n\r\n                height: 100%;\r\n\r\n                @media screen and (min-width: 767px) {\r\n                    flex-wrap: wrap;\r\n                    column-gap: 24px;\r\n                    row-gap: 16px;\r\n                    overflow: hidden;\r\n                }\r\n\r\n                @media screen and (min-width: 1119px) {\r\n                    column-gap: 32px;\r\n                }\r\n\r\n\r\n                .swiper-slide {\r\n                    transition-property: transform;\r\n                    transition-duration: 200ms;\r\n                    width: 220px;\r\n                    height: 72px;\r\n\r\n                    @media screen and (min-width: 767px) {\r\n                        width: 220px;\r\n                        height: 72px;\r\n                    }\r\n\r\n                    @media screen and (min-width: 1119px) {\r\n                        width: 240px;\r\n                    }\r\n\r\n                    .Repair-section__card {\r\n                        display: flex;\r\n                        width: 100%;\r\n                        gap: 16px;\r\n                        justify-content: space-around;\r\n                        align-items: center;\r\n                        background-color: #FFFFFF;\r\n                        height: 72px;\r\n                        border: 1px solid #EAEAEA;\r\n                        border-radius: 6px;\r\n\r\n                        @media screen and (min-width: 767px) {\r\n                            width: 220px;\r\n                        }\r\n\r\n                        @media screen and (min-width: 1119px) {\r\n                            width: 240px;\r\n                        }\r\n\r\n                        .Repair-section_img--moved-left {\r\n                            transform: translateX(-20px);\r\n                        }\r\n\r\n                        .Repair-section__card-button {\r\n                            width: 40px;\r\n                            height: 40px;\r\n                            background-image: url('./../img/go.svg');\r\n                            background-repeat: no-repeat;\r\n                            background-position: 50% 50%;\r\n                        }\r\n                    }\r\n                }\r\n\r\n                .swiper-slide:hover {\r\n                    transform: scale(1.05);\r\n                }\r\n\r\n                .swiper-slide:hover .Repair-section__card-button {\r\n                    opacity: 0.7;\r\n                }\r\n\r\n            }\r\n\r\n\r\n        }\r\n    }\r\n}",".Repair-second {\r\n    max-width: 1120px;\r\n    border-top: 1px solid #D9FFF5;\r\n    margin-bottom: 32px;\r\n\r\n    &__name {\r\n        display: block;\r\n        height: 56px;\r\n        padding-left: 24px;\r\n        padding-top: 16px;\r\n\r\n        margin-bottom: 16px;\r\n\r\n        background-image: linear-gradient(to right, #F8F8F8, #FFFFFF);\r\n        color: #7E7E82;\r\n\r\n        font-size: 16px;\r\n        text-transform: uppercase;\r\n    }\r\n\r\n    &__button {\r\n        display: flex;\r\n        background-color: #F8F8F8;\r\n        margin-left: 32px;\r\n\r\n        @media screen and (max-width: 767px) {\r\n            display: none;\r\n        }\r\n    }\r\n\r\n    &__button::before {\r\n        content: '';\r\n        background-image: url(\"./../img/repait-section-button.svg\");\r\n        background-repeat: no-repeat;\r\n        background-position: 50% 50%;\r\n        align-self: center;\r\n        height: 12px;\r\n        width: 8px;\r\n        margin-right: 17px;\r\n    }\r\n\r\n    &__button.Repair-second_button__rotate::before {\r\n        transform: rotate(180deg);\r\n    }\r\n\r\n    .swiper-container {\r\n        display: block;\r\n        position: relative;\r\n        width: 100vw;\r\n        height: 180px;\r\n        overflow: hidden;\r\n        margin-bottom: 24px;\r\n\r\n        @media screen and (min-width: 767px) {\r\n            width: 100%;\r\n            height: 160px;\r\n        }\r\n\r\n        .swiper-container::after {\r\n            content: \"\";\r\n            position: absolute;\r\n            right: 0;\r\n            top: 0px;\r\n            z-index: 1;\r\n            width: 21px;\r\n            height: 81px;\r\n            background: linear-gradient(to left, #F8F8F8 16.84%, rgba(248, 248, 248, 0.0001) 100%);\r\n\r\n            @media screen and (min-width: 767px) {\r\n                display: none;\r\n            }\r\n        }\r\n\r\n        .swiper {\r\n            width: 400px;\r\n            height: 100%;\r\n\r\n\r\n            @media screen and (min-width: 400px) {\r\n                width: 600px;\r\n            }\r\n\r\n            @media screen and (min-width: 600px) {\r\n                width: 800px;\r\n            }\r\n\r\n\r\n            @media screen and (min-width: 767px) {\r\n                width: 100%;\r\n                height: 100%;\r\n                max-width: 1100px;\r\n                margin-left: 24px;\r\n            }\r\n\r\n            @media screen and (min-width: 1119px) {\r\n                margin-left: 32px;\r\n            }\r\n\r\n            .swiper-pagination {\r\n                transform: translateX(-100px) translateY(10px);\r\n\r\n                @media screen and (min-width: 400px) {\r\n                    transform: translateX(-200px) translateY(10px);\r\n                }\r\n\r\n                @media screen and (min-width: 600px) {\r\n                    transform: translateX(-300px) translateY(10px);\r\n                }\r\n            }\r\n\r\n\r\n            .swiper-wrapper {\r\n                display: flex;\r\n\r\n                height: 100%;\r\n\r\n                @media screen and (min-width: 767px) {\r\n                    flex-wrap: wrap;\r\n                    column-gap: 24px;\r\n                    row-gap: 16px;\r\n                    overflow: hidden;\r\n                }\r\n\r\n                @media screen and (min-width: 1119px) {\r\n                    column-gap: 32px;\r\n                }\r\n\r\n\r\n                .swiper-slide {\r\n                    transition-property: transform;\r\n                    transition-duration: 200ms;\r\n                    width: 220px;\r\n                    height: 160px;\r\n\r\n                    @media screen and (min-width: 767px) {\r\n                        width: 220px;\r\n                        height: 160px;\r\n                    }\r\n\r\n                    @media screen and (min-width: 1119px) {\r\n                        width: 240px;\r\n                    }\r\n\r\n                    .Repair-second__card {\r\n                        display: flex;\r\n                        width: 100%;\r\n                        gap: 16px;\r\n                        justify-content: space-between;\r\n                        background-color: #FFFFFF;\r\n                        height: 160px;\r\n                        border: 1px solid #EAEAEA;\r\n                        border-radius: 6px;\r\n\r\n                        @media screen and (min-width: 767px) {\r\n                            width: 220px;\r\n                        }\r\n\r\n                        @media screen and (min-width: 1119px) {\r\n                            width: 240px;\r\n                        }\r\n\r\n                        .Repair-second__card-text {\r\n                            color: #1B1C21;\r\n                            align-self: flex-start;\r\n                            transform: translateX(10px);\r\n                            padding-top: 16px;\r\n                        }\r\n\r\n                        .Repair-second__card-button {\r\n                            align-self: flex-end;\r\n                            transform: translate(-10px, -16px);\r\n                            width: 40px;\r\n                            height: 40px;\r\n                            background-image: url('./../img/go.svg');\r\n                            background-repeat: no-repeat;\r\n                            background-position: 50% 50%;\r\n                        }\r\n                    }\r\n                }\r\n\r\n                .swiper-slide:hover {\r\n                    transform: scale(1.05);\r\n                }\r\n\r\n                .swiper-slide:hover .Repair-second__card-button {\r\n                    opacity: 0.7;\r\n                }\r\n\r\n            }\r\n\r\n\r\n        }\r\n    }\r\n}",".Price {\r\n    max-width: 1120px;\r\n    border-top: 1px solid #D9FFF5;\r\n    margin-bottom: 24px;\r\n\r\n    &__name {\r\n        display: block;\r\n        height: 56px;\r\n        padding-left: 24px;\r\n        padding-top: 16px;\r\n\r\n        margin-bottom: 16px;\r\n\r\n        background-image: linear-gradient(to right, #F8F8F8, #FFFFFF);\r\n        color: #7E7E82;\r\n\r\n        font-size: 16px;\r\n        text-transform: uppercase;\r\n    }\r\n\r\n    .Price__text-holder {\r\n        margin-left: 16px;\r\n        margin-bottom: 50px;\r\n\r\n        @media screen and (min-width: 767px) {\r\n            margin-left: 24px;\r\n        }\r\n\r\n        @media screen and (min-width: 1139px) {\r\n            margin-left: 32px;\r\n        }\r\n\r\n\r\n        p {\r\n            width: 80%;\r\n            font-size: 14px;\r\n            line-height: 18px;\r\n            color: #1B1C21;\r\n            margin-bottom: 16px;\r\n\r\n            @media screen and (min-width: 767px) {\r\n                width: 60%;\r\n            }\r\n\r\n            @media screen and (min-width: 1139px) {\r\n                width: 40%;\r\n            }\r\n        }\r\n\r\n        .Price__button {\r\n            position: relative;\r\n            width: 95%;\r\n            text-align: left;\r\n            font-size: 16px;\r\n            font-weight: 500;\r\n        }\r\n\r\n        .Price__button::after {\r\n            content: url(\"./../img/Line.svg\");\r\n            display: inline-block;\r\n            position: absolute;\r\n            transform: translateX(8px);\r\n\r\n            @media screen and (min-width: 767px) {\r\n                width: 60%;\r\n            }\r\n        }\r\n    }\r\n\r\n    .swiper-container {\r\n        display: block;\r\n        position: relative;\r\n        width: 100vw;\r\n        height: 220px;\r\n        overflow: hidden;\r\n        margin-bottom: 24px;\r\n\r\n        @media screen and (min-width: 767px) {\r\n            width: 100%;\r\n            height: 100%;\r\n        }\r\n\r\n        .swiper-container::after {\r\n            content: \"\";\r\n            position: absolute;\r\n            right: 0;\r\n            top: 0px;\r\n            z-index: 1;\r\n            width: 21px;\r\n            height: 81px;\r\n            background: linear-gradient(to left, #F8F8F8 16.84%, rgba(248, 248, 248, 0.0001) 100%);\r\n\r\n            @media screen and (min-width: 767px) {\r\n                display: none;\r\n            }\r\n        }\r\n\r\n        .swiper {\r\n            width: 400px;\r\n            height: 100%;\r\n\r\n\r\n            @media screen and (min-width: 400px) {\r\n                width: 600px;\r\n            }\r\n\r\n            @media screen and (min-width: 600px) {\r\n                width: 800px;\r\n            }\r\n\r\n\r\n            @media screen and (min-width: 767px) {\r\n                width: 100%;\r\n                height: 100%;\r\n                max-width: 1100px;\r\n                margin-left: 20px;\r\n            }\r\n\r\n            @media screen and (min-width: 767px) {\r\n                margin-left: 24px;\r\n            }\r\n\r\n            @media screen and (min-width: 1139px) {\r\n                margin-left: 32px;\r\n            }\r\n\r\n            .swiper-pagination {\r\n                transform: translateX(-100px) translateY(10px);\r\n\r\n                @media screen and (min-width: 400px) {\r\n                    transform: translateX(-200px) translateY(10px);\r\n                }\r\n\r\n                @media screen and (min-width: 600px) {\r\n                    transform: translateX(-300px) translateY(10px);\r\n                }\r\n            }\r\n\r\n\r\n            .swiper-wrapper {\r\n                display: flex;\r\n                height: 100%;\r\n\r\n                @media screen and (min-width: 767px) {\r\n                    flex-direction: column;\r\n                }\r\n\r\n                .Price__card-head {\r\n                    display: none;\r\n                    background-color: #F8F8F8;\r\n                    color: #7E7E82;\r\n                    font-size: 14px;\r\n\r\n                    @media screen and (min-width: 767px) {\r\n                        display: flex;\r\n                        padding: 16px;\r\n                        height: 55px;\r\n                    }\r\n\r\n                    .Price__head-name {\r\n                        @media screen and (min-width: 767px) {\r\n                            display: block;\r\n                            width: 43%;\r\n                        }\r\n                    }\r\n\r\n                    .Price__head-price {\r\n                        @media screen and (min-width: 767px) {\r\n                            display: block;\r\n                            width: 14%;\r\n                        }\r\n                    }\r\n\r\n                    .Price__head-time {\r\n                        @media screen and (min-width: 767px) {\r\n                            display: block;\r\n                        }\r\n                    }\r\n                }\r\n\r\n                .swiper-slide {\r\n                    transition-property: transform;\r\n                    transition-duration: 200ms;\r\n                    width: 220px;\r\n                    height: 210px;\r\n\r\n                    @media screen and (min-width: 767px) {\r\n                        width: 95%;\r\n                        height: 64px;\r\n                        background-color: #FFFFFF;\r\n                    }\r\n\r\n                    .Price__card {\r\n                        display: flex;\r\n                        flex-direction: column;\r\n                        width: 100%;\r\n                        height: 200px;\r\n                        border: 1px solid #EAEAEA;\r\n                        border-radius: 6px;\r\n                        padding: 16px;\r\n                        color: #1B1C21;\r\n\r\n                        @media screen and (max-width: 767px) {\r\n                            background-color: #FFFFFF;\r\n                        }\r\n\r\n\r\n                        @media screen and (min-width: 767px) {\r\n                            flex-direction: row;\r\n                            border: none;\r\n                            border-radius: 0;\r\n                            height: 64px;\r\n                            align-items: center;\r\n                        }\r\n\r\n                        .Price__service-name {\r\n                            color: #7E7E82;\r\n                            line-height: 16px;\r\n                            font-size: 14px;\r\n                            margin-bottom: 4px;\r\n\r\n                            @media screen and (min-width: 767px) {\r\n                                display: none;\r\n                            }\r\n                        }\r\n\r\n                        .Price__service-text {\r\n                            line-height: 18px;\r\n                            margin-bottom: 16px;\r\n\r\n                            @media screen and (min-width: 767px) {\r\n                                margin-bottom: 0;\r\n                                width: 45%;\r\n                            }\r\n                        }\r\n\r\n                        .Price__price-text {\r\n                            line-height: 16px;\r\n                            color: #7E7E82;\r\n                            margin-bottom: 4px;\r\n\r\n                            @media screen and (min-width: 767px) {\r\n                                display: none;\r\n                            }\r\n                        }\r\n\r\n                        .Price__price-value {\r\n                            line-height: 18px;\r\n                            margin-bottom: 16px;\r\n\r\n                            @media screen and (min-width: 767px) {\r\n                                margin-bottom: 0;\r\n                                width: 15%;\r\n                            }\r\n                        }\r\n\r\n                        .Price__price-value.Price__price-value__moved {\r\n                            margin-bottom: 32px;\r\n\r\n                            @media screen and (min-width: 767px) {\r\n                                margin-bottom: 0;\r\n                            }\r\n                        }\r\n\r\n                        .Price__time-holder {\r\n                            @media screen and (min-width: 767px) {\r\n                                display: flex;\r\n                                align-items: center;\r\n                            }\r\n                        }\r\n\r\n                        .Price__price-time {\r\n                            color: #7E7E82;\r\n                            line-height: 16px;\r\n\r\n                            @media screen and (min-width: 767px) {\r\n                                display: none;\r\n                            }\r\n                        }\r\n\r\n                        .Price__time-value {\r\n                            line-height: 18px;\r\n\r\n                            @media screen and (min-width: 767px) {\r\n                                align-self: center;\r\n                            }\r\n                        }\r\n\r\n                        .Price__holder {\r\n                            display: flex;\r\n                            justify-content: space-between;\r\n\r\n                            @media screen and (min-width: 767px) {\r\n                                width: 40%;\r\n                            }\r\n                        }\r\n\r\n                        .Price__card-button {\r\n                            width: 120px;\r\n                            transform: translateY(10px);\r\n                            border-radius: 16px;\r\n                            height: 32px;\r\n                            font-weight: 600;\r\n                            text-align: left;\r\n                            background-color: #FF3E79;\r\n\r\n                            @media screen and (min-width: 767px) {\r\n                                transform: translateY(0);\r\n                            }\r\n                        }\r\n\r\n                        .Price__button-text {\r\n                            text-transform: uppercase;\r\n                            color: #FFFFFF;\r\n                            padding-left: 12px;\r\n                            font-size: 12px;\r\n                        }\r\n\r\n                        .Price__button-text::after {\r\n                            content: url('./../img/dropdown.svg');\r\n                            position: relative;\r\n                            top: 1px;\r\n                            left: 16px;\r\n                        }\r\n                    }\r\n                }\r\n\r\n                .Price__card::after {\r\n                    content: \"\";\r\n                    display: block;\r\n                    position: absolute;\r\n                    bottom: 0;\r\n                    height: 1px;\r\n                    width: 95%;\r\n                    background-color: #EAEAEA;\r\n\r\n                    @media screen and (max-width: 767px) {\r\n                        display: none;\r\n                    }\r\n                }\r\n\r\n                .swiper-slide:last-child .Price__card::after {\r\n                    display: none;\r\n                }\r\n\r\n                .swiper-slide:hover .Price__card-button {\r\n                    opacity: 0.7;\r\n                }\r\n\r\n            }\r\n\r\n\r\n        }\r\n    }\r\n}",".Company-info__footer {\r\n    display: flex;\r\n    height: 65px;\r\n    flex-direction: column;\r\n    align-items: center;\r\n    justify-content: center;\r\n    border-top: 1px solid #D9FFF5;\r\n    margin-left: 0;\r\n    text-align: center;\r\n\r\n    @media screen and (min-width: 767px) {\r\n        flex-direction: row;\r\n        justify-content: space-around;\r\n        align-items: flex-end;\r\n        padding: 0 30px;\r\n    }\r\n\r\n\r\n\r\n    &__text {\r\n        color: #7E7E82;\r\n        font-size: 14px;\r\n        line-height: 16px;\r\n    }\r\n\r\n    &__text-left {\r\n        width: 100%;\r\n        margin-bottom: 16px;\r\n\r\n        @media screen and (min-width: 767px) {\r\n            text-align: left;\r\n            margin-bottom: 0;\r\n        }\r\n    }\r\n\r\n    &__text-middle {\r\n        width: 100%;\r\n        margin-bottom: 16px;\r\n\r\n\r\n        @media screen and (min-width: 767px) {\r\n            text-align: center;\r\n            margin-bottom: 0;\r\n        }\r\n    }\r\n\r\n    &__text-right {\r\n        width: 100%;\r\n        margin-bottom: 16px;\r\n\r\n        @media screen and (min-width: 767px) {\r\n            text-align: right;\r\n            margin-bottom: 0;\r\n        }\r\n    }\r\n}","@import './fonts.scss';\r\n@import './mobile-menu/mobile-menu.scss';\r\n@import './reset.css';\r\n@import './header/header.scss';\r\n@import './buttons/button.scss';\r\n@import './company-info/company-info.scss';\r\n@import './modal-call/modal-call.scss';\r\n@import './modal-feedback/modal-feedback.scss';\r\n@import './swipers/swiper-1.scss';\r\n@import './swipers/swiper-2.scss';\r\n@import './swipers/swiper-3.scss';\r\n@import './footer/footer.scss';\r\n\r\n$background-cl-body: #F8F8F8;\r\n\r\nbody {\r\n    font-family: \"TT Lakes\";\r\n    background-color: $background-cl-body;\r\n}\r\n\r\n.modalBackdrop {\r\n    position: fixed;\r\n    display: none;\r\n    z-index: 10;\r\n    top: 0;\r\n    left: 0;\r\n    right: 0;\r\n    bottom: 0;\r\n    background-color: rgba(255, 255, 255, 0.9);\r\n}\r\n\r\n.burgerMenuBackDrop {\r\n    position: fixed;\r\n    display: none;\r\n    z-index: 1;\r\n    top: 0;\r\n    left: 0;\r\n    right: 0;\r\n    bottom: 0;\r\n    background-color: rgba(255, 255, 255, 0.9);\r\n}\r\n\r\n.app-wrapper {\r\n    height: 100%;\r\n    width: 100%;\r\n\r\n    @media screen and (min-width: 1440px) {\r\n        display: flex;\r\n        justify-content: center;\r\n    }\r\n}"],"sourceRoot":""}]);
+`, "",{"version":3,"sources":["webpack://./styles/fonts.scss","webpack://./styles/mobile-menu/mobile-menu-header.scss","webpack://./styles/mobile-menu/mobile-menu-main.scss","webpack://./styles/mobile-menu/mobile-menu-footer.scss","webpack://./styles/mobile-menu/mobile-menu.scss","webpack://./styles/header/header.scss","webpack://./styles/buttons/more-content-button.scss","webpack://./styles/buttons/round-icon.scss","webpack://./styles/buttons/submit-button.scss","webpack://./styles/company-info/company-info.scss","webpack://./styles/modal-call/modal-call.scss","webpack://./styles/modal-feedback/modal-feedback.scss","webpack://./styles/swipers/swiper-1.scss","webpack://./styles/swipers/swiper-2.scss","webpack://./styles/swipers/swiper-3.scss","webpack://./styles/footer/footer.scss","webpack://./styles/style.scss"],"names":[],"mappings":"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","sourcesContent":["@font-face {\n    font-family: 'TT Lakes';\n    src: url('../Fonts/TTLakes-Regular.eot'),\n        url('../Fonts/TTLakes-Regular.woff'),\n        url('../Fonts/TTLakes-Regular.ttf');\n    font-weight: 400;\n    font-style: normal;\n}\n\n@font-face {\n    font-family: 'TT Lakes';\n    src: url('../Fonts/TTLakes-Medium.eot'),\n        url('../Fonts/TTLakes-Medium.woff'),\n        url('../Fonts/TTLakes-Medium.ttf');\n    font-weight: 500;\n    font-style: normal;\n}\n\n@font-face {\n    font-family: 'TT Lakes';\n    src: url('../Fonts/TTLakes-Bold.eot'),\n        url('../Fonts/TTLakes-Bold.woff'),\n        url('../Fonts/TTLakes-Bold.ttf');\n    font-weight: bold;\n    font-style: normal;\n}",".Mobile-menu__header {\r\n    display: flex;\r\n    justify-content: space-between;\r\n    align-items: center;\r\n    margin: 0 16px;\r\n    margin-right: 24px;\r\n    margin-top: 18px;\r\n\r\n    @media screen and (min-width: 1440px) {\r\n        margin: 0 25px;\r\n        margin-top: 30px;\r\n    }\r\n\r\n    .Mobile-menu__wrapper-left {\r\n        display: flex;\r\n        align-items: center;\r\n        gap: 16px;\r\n    }\r\n\r\n    .Round-icon--off {\r\n        @media screen and (min-width: 1440px) {\r\n            display: none;\r\n        }\r\n    }\r\n\r\n}","$text-cl: #1B1C21;\r\n$text-cl-active: #7E7E82;\r\n$background-cl-hover: #f0f0f0;\r\n\r\n.Main-wrapper {\r\n    display: flex;\r\n    flex-direction: column;\r\n    justify-content: space-between;\r\n    margin-bottom: 32px;\r\n\r\n    @media screen and (min-width: 767px) {\r\n        height: fit-content;\r\n        margin-bottom: 200px;\r\n    }\r\n\r\n    &__links {\r\n        padding-top: 16px;\r\n\r\n        @media screen and (min-width: 767px) {\r\n            padding-top: 46px;\r\n        }\r\n\r\n\r\n        @media screen and (min-width: 1440px) {\r\n            margin-top: 0;\r\n        }\r\n    }\r\n\r\n    &__container {\r\n        display: flex;\r\n        flex-direction: column;\r\n        list-style: none;\r\n\r\n        padding: 0;\r\n        margin: 0;\r\n\r\n        .Main-wrapper__link {\r\n            display: block;\r\n\r\n            padding: 10px 0;\r\n            margin-bottom: 6px;\r\n            padding-left: 24px;\r\n\r\n            font-weight: 500;\r\n            font-size: 16px;\r\n            color: $text-cl;\r\n\r\n            transition-property: background-color;\r\n            transition-duration: 300ms;\r\n        }\r\n\r\n        .Main-wrapper__link:hover {\r\n            background-color: $background-cl-hover;\r\n        }\r\n\r\n        .Main-wrapper__link.active {\r\n            color: $text-cl-active;\r\n            position: relative;\r\n        }\r\n\r\n        .Main-wrapper__link.active::before {\r\n            content: url(\"../img/highlight.svg\");\r\n            position: absolute;\r\n            left: 0px;\r\n            top: 0px;\r\n        }\r\n    }\r\n\r\n\r\n}","$text-cl: #1B1C21;\r\n$text-cl-checked: #7E7E82;\r\n\r\n.footer {\r\n    margin-left: 24px;\r\n\r\n    &__buttons {\r\n        display: flex;\r\n\r\n        gap: 16px;\r\n\r\n        margin-bottom: 16px;\r\n    }\r\n\r\n    &__email {\r\n        margin-bottom: 12px;\r\n    }\r\n\r\n    &__email a {\r\n        font-size: 16px;\r\n        font-weight: 600;\r\n\r\n        color: $text-cl;\r\n    }\r\n\r\n    &__phone a {\r\n        color: $text-cl;\r\n\r\n        font-size: 24px;\r\n        font-weight: 700;\r\n    }\r\n\r\n    &__radio {\r\n        display: flex;\r\n\r\n        margin-top: 8px;\r\n        margin-bottom: 32px;\r\n\r\n        gap: 7px;\r\n\r\n        @media screen and (min-width: 767px) {\r\n            padding-top: 40px;\r\n        }\r\n    }\r\n\r\n    &_radio-label {\r\n        color: $text-cl;\r\n\r\n        font-weight: 500;\r\n    }\r\n\r\n    &_radio-label input {\r\n        display: none;\r\n    }\r\n\r\n    &_radio-label>input+span {\r\n        transition-property: color;\r\n        transition-duration: 400ms;\r\n    }\r\n\r\n    &_radio-label>input:checked+span {\r\n        color: $text-cl-checked;\r\n    }\r\n\r\n    &_radio-label>input+span:hover {\r\n        color: $text-cl-checked;\r\n    }\r\n}","@import './mobile-menu-header.scss';\r\n@import './mobile-menu-main.scss';\r\n@import './mobile-menu-footer.scss';\r\n\r\n$background-cl: #FFFFFF;\r\n\r\n.Mobile-menu {\r\n    display: none;\r\n    flex-direction: column;\r\n    position: fixed;\r\n    z-index: 5;\r\n    top: 0;\r\n    left: 0;\r\n    width: 330px;\r\n    background-color: $background-cl;\r\n    box-shadow:\r\n        16px 0 52px 0 #0E185033,\r\n        -2px 0 4px 0 #454F7E05;\r\n\r\n    @media screen and (min-width: 321px) and (max-width: 360px) {\r\n        width: 100%\r\n    }\r\n\r\n    @media screen and (min-width: 767px) {\r\n        position: absolute;\r\n    }\r\n\r\n    @media screen and (min-width: 1439px) {\r\n        display: flex;\r\n        position: static;\r\n        box-shadow: none;\r\n    }\r\n}","$border-cl: #D9FFF5;\r\n$background-cl: #FFFFFF;\r\n\r\n.Header {\r\n    display: flex;\r\n    width: 100%;\r\n    height: 88px;\r\n    max-width: 1120px;\r\n    padding: 0 16px;\r\n    margin-bottom: 16px;\r\n    justify-content: space-between;\r\n    border-bottom: 1px solid $border-cl;\r\n    background-color: #FFFFFF;\r\n\r\n    @media screen and (min-width: 1120px) {\r\n        display: none;\r\n    }\r\n\r\n    &__wrapper-left {\r\n        display: flex;\r\n        align-items: center;\r\n        gap: 16px;\r\n    }\r\n\r\n    &__header-button {\r\n\r\n        @media screen and (min-width: 767px) and (max-width: 1120px) {\r\n            display: flex;\r\n            align-items: center;\r\n            gap: 20px;\r\n        }\r\n    }\r\n\r\n    &__header-button::after {\r\n        @media screen and (min-width: 767px) and (max-width: 1120px) {\r\n            content: url('./../img/divider.svg');\r\n            display: inline-block;\r\n            height: 32px;\r\n            padding-right: 2px;\r\n        }\r\n    }\r\n\r\n\r\n    &__wrapper-left::after {\r\n        content: url('./../img/divider.svg');\r\n        height: 32px;\r\n\r\n        @media screen and (min-width: 767px) and (max-width: 1120px) {\r\n            content: '';\r\n        }\r\n    }\r\n\r\n    &__wrapper-right {\r\n        display: flex;\r\n    }\r\n\r\n    &__wrapper-buttons--left {\r\n        display: none;\r\n        align-items: center;\r\n        gap: 16px;\r\n\r\n        @media screen and (min-width: 767px) and (max-width: 1120px) {\r\n            display: flex;\r\n        }\r\n    }\r\n\r\n    &__wrapper-buttons--right {\r\n        display: flex;\r\n        align-items: center;\r\n        gap: 16px;\r\n    }\r\n\r\n    &__wrapper-buttons--right::before {\r\n        @media screen and (min-width: 767px) and (max-width: 1120px) {\r\n            content: url('./../img/divider.svg');\r\n            height: 32px;\r\n            padding-left: 20px;\r\n            padding-right: 4px;\r\n        }\r\n    }\r\n\r\n\r\n    @media screen and (min-width: 767px) and (max-width: 1120px) {}\r\n}",".Increase-content__button {\r\n    font-size: 16px;\r\n    color: #1B1C21;\r\n    line-height: 24px;\r\n    font-weight: 500;\r\n}\r\n\r\n.Increase-content__button::before {\r\n    content: url('./../img/expand.svg');\r\n    display: inline-block;\r\n    margin-right: 6px;\r\n    width: 24px;\r\n    height: 24px;\r\n}\r\n\r\n.Increase-content__button.Increase-content__button--rotated-true::before {\r\n    content: url('./../img/expand.svg');\r\n    transform: rotate(180deg);\r\n}","$background-cl: #ffffff;\r\n\r\n.Round-icon {\r\n    display: block;\r\n\r\n    width: 40px;\r\n    height: 40px;\r\n\r\n    border: none;\r\n\r\n    cursor: pointer;\r\n\r\n    padding: 0;\r\n\r\n    transition-property: opacity;\r\n    transition-duration: 400ms;\r\n\r\n    background-repeat: no-repeat;\r\n    background-position: 50% 50%;\r\n    background-color: $background-cl\r\n}\r\n\r\n.Round-icon:hover {\r\n    opacity: 0.7;\r\n}\r\n\r\n.Round-icon--arrow {\r\n    background-image: url('./../img/go.svg');\r\n}\r\n\r\n.Round-icon--off {\r\n    background-image: url(\"../img/burger-off.svg\");\r\n\r\n}\r\n\r\n.Round-icon--on {\r\n    background-image: url(\"../img/burger-on.svg\");\r\n}\r\n\r\n.Round-icon--find {\r\n    background-image: url(\"../img/search.svg\");\r\n}\r\n\r\n.Round-icon--call {\r\n    background-image: url(\"../img/call.svg\");\r\n}\r\n\r\n.Round-icon--message {\r\n    background-image: url(\"../img/chat.svg\");\r\n}\r\n\r\n.Round-icon--profile {\r\n    background-image: url(\"../img/profile.svg\");\r\n}\r\n\r\n.Round-icon--repair {\r\n    background-image: url(\"../img/repair.svg\");\r\n}\r\n\r\n.Round-icon--check {\r\n    background-image: url(\"../img/checkstatus.svg\");\r\n}",".Submit-button {\r\n    color: #FFFFFF;\r\n    width: 136px;\r\n    height: 32px;\r\n    background-color: #FF3E79;\r\n    border-radius: 16px;\r\n    font-size: 12px;\r\n    font-weight: bold;\r\n    text-align: left;\r\n\r\n    .Submit-button__text {\r\n        padding-left: 20px;\r\n    }\r\n\r\n    .Submit-button__text::after {\r\n        content: url('./../img/dropdown.svg');\r\n        position: relative;\r\n        top: 1px;\r\n        left: 10px;\r\n    }\r\n}","$name-cl: #1B1C21;\r\n$links-cl: #7E7E82;\r\n$links-bg-cl: #FFFFFF;\r\n$links-border-cl: #B8FFEC;\r\n\r\n.Company-info {\r\n    max-width: 1120px;\r\n    margin-bottom: 24px;\r\n\r\n    &__name {\r\n        margin-bottom: 24px;\r\n        display: flex;\r\n        justify-content: space-between;\r\n\r\n        @media screen and (min-width: 1120px) {\r\n            margin-top: 42px;\r\n            margin-bottom: 8px;\r\n        }\r\n    }\r\n\r\n    &__name-buttons {\r\n        display: none;\r\n        gap: 32px;\r\n        margin-right: 30px;\r\n\r\n        @media screen and (min-width: 1120px) {\r\n            display: flex;\r\n        }\r\n    }\r\n\r\n    &__name-buttons label {\r\n        display: flex;\r\n        gap: 8px;\r\n        align-items: center;\r\n    }\r\n\r\n    &__name h1 {\r\n        color: $name-cl;\r\n\r\n        font-size: 28px;\r\n        font-weight: bold;\r\n\r\n        padding-left: 16px;\r\n    }\r\n\r\n    &__name h1::before {\r\n        content: url('./../img/highlight.svg');\r\n        position: relative;\r\n        left: -16px;\r\n        top: 10px\r\n    }\r\n\r\n    &__links-wrapper {\r\n        position: relative;\r\n        margin-bottom: 24px;\r\n        max-width: 1096px;\r\n    }\r\n\r\n    &__links-wrapper::after {\r\n        content: '';\r\n        position: absolute;\r\n        width: 24px;\r\n        height: 40px;\r\n        right: 0;\r\n        top: 0;\r\n        background: linear-gradient(270deg, #F8F8F8 16.84%, rgba(248, 248, 248, 0.0001) 100%);\r\n    }\r\n\r\n    &__links {\r\n        display: flex;\r\n        overflow-x: auto;\r\n\r\n        @media screen and (min-width: 1096px) {\r\n            flex-wrap: wrap;\r\n            overflow-x: auto;\r\n        }\r\n    }\r\n\r\n    &__link {\r\n        display: block;\r\n        color: $links-cl;\r\n        border: 2px solid transparent;\r\n        padding: 8px 0;\r\n        border-radius: 6px;\r\n        padding-left: 16px;\r\n        padding-right: 8px;\r\n        white-space: nowrap;\r\n    }\r\n\r\n    &__link:hover {\r\n        border-color: $links-border-cl;\r\n        background-color: $links-bg-cl;\r\n    }\r\n\r\n    &__content {\r\n        padding: 0 16px;\r\n        display: flex;\r\n        gap: 48px;\r\n        flex-direction: column;\r\n        margin-bottom: 45px;\r\n\r\n        @media screen and (min-width: 767px) {\r\n            padding: 0 24px;\r\n            flex-direction: row;\r\n            justify-content: space-between;\r\n        }\r\n    }\r\n\r\n    &__content-wrapper {\r\n        width: 100%;\r\n        height: 130px;\r\n\r\n        @media screen and (min-width: 767px) {\r\n            height: 160px;\r\n            width: 50%;\r\n        }\r\n    }\r\n\r\n    &__content-text {\r\n        color: #1B1C21;\r\n        font-size: 14px;\r\n        line-height: 18px;\r\n        max-width: 490px;\r\n        height: 90px;\r\n        overflow: hidden;\r\n        margin-bottom: 16px;\r\n\r\n        @media screen and (min-width: 767px) {\r\n            height: 125px;\r\n            width: 100%;\r\n        }\r\n\r\n        @media screen and (min-width: 1120px) {\r\n            height: 140px;\r\n        }\r\n    }\r\n\r\n    &__img-wrapper {\r\n        width: 100%;\r\n        max-width: 550px;\r\n\r\n        @media screen and (min-width: 767px) and (max-width: 1120px) {\r\n            width: 50%;\r\n            flex-grow: 1;\r\n        }\r\n    }\r\n\r\n    &__content-img {\r\n        width: 100%;\r\n        max-width: 550px;\r\n\r\n        @media screen and (min-width: 767px) and (max-width: 1120px) {\r\n            width: 100%;\r\n        }\r\n    }\r\n}","$background-cl: #FFFFFF;\r\n\r\n.Modal-call {\r\n    display: none;\r\n    position: fixed;\r\n    left: 0;\r\n    top: 0;\r\n    z-index: 20;\r\n    width: 320px;\r\n    height: 100%;\r\n    background-color: $background-cl;\r\n\r\n\r\n    &__wrapper {\r\n        padding: 24px 16px;\r\n    }\r\n\r\n    .Round-icon--off {\r\n        margin-bottom: 40px;\r\n\r\n        @media screen and (min-width: 600px) {\r\n            transform: translate(-80px, 10px);\r\n            position: absolute;\r\n        }\r\n    }\r\n\r\n    &__name {\r\n        font-size: 24px;\r\n        font-weight: 600;\r\n        margin-bottom: 20px;\r\n    }\r\n\r\n    &__name::before {\r\n        content: url('./../img/highlight.svg');\r\n        position: relative;\r\n        left: -16px;\r\n        top: 10px;\r\n    }\r\n\r\n    &__input {\r\n        display: block;\r\n        width: 100%;\r\n        padding: 10px;\r\n        border: 1px solid #EAEAEA;\r\n        border-radius: 8px;\r\n        margin-bottom: 16px;\r\n    }\r\n\r\n    &__text {\r\n        font-size: 14px;\r\n        color: #7E7E82;\r\n        line-height: 16px;\r\n        margin-bottom: 18px;\r\n    }\r\n\r\n    &__text-link {\r\n        color: #FF3E79;\r\n    }\r\n\r\n    &__button-wrapper {\r\n        display: flex;\r\n        justify-content: flex-end;\r\n    }\r\n\r\n    @media screen and (min-width: 600px) {\r\n        width: 440px;\r\n        left: auto;\r\n        right: 0;\r\n        border-left: 1px solid #D9FFF5;\r\n        box-shadow: 16px 0px 52px 0px #0E185033,\r\n            -2px 0px 4px 0px #454F7E05;\r\n    }\r\n}","$background-cl: #FFFFFF;\r\n\r\n.Modal-feedback {\r\n    display: none;\r\n    position: fixed;\r\n    z-index: 20;\r\n    left: 0;\r\n    top: 0;\r\n    width: 320px;\r\n    height: 100vh;\r\n    background-color: $background-cl;\r\n\r\n\r\n    &__wrapper {\r\n        padding: 24px 16px;\r\n    }\r\n\r\n    .Round-icon--off {\r\n        margin-bottom: 40px;\r\n\r\n        @media screen and (min-width: 600px) {\r\n            transform: translate(-80px, 10px);\r\n            position: absolute;\r\n        }\r\n    }\r\n\r\n    &__name {\r\n        font-size: 24px;\r\n        font-weight: 600;\r\n        margin-bottom: 20px;\r\n    }\r\n\r\n    &__name::before {\r\n        content: url('./../img/highlight.svg');\r\n        position: relative;\r\n        left: -16px;\r\n        top: 10px;\r\n    }\r\n\r\n    &__input {\r\n        display: block;\r\n        width: 100%;\r\n        padding: 10px;\r\n        border: 1px solid #EAEAEA;\r\n        border-radius: 8px;\r\n        margin-bottom: 16px;\r\n    }\r\n\r\n    &__textarea {\r\n        height: 118px;\r\n        width: 288px;\r\n    }\r\n\r\n    &__text {\r\n        font-size: 14px;\r\n        color: #7E7E82;\r\n        line-height: 16px;\r\n        margin-bottom: 18px;\r\n    }\r\n\r\n    &__text-link {\r\n        color: #FF3E79;\r\n    }\r\n\r\n    &__button-wrapper {\r\n        display: flex;\r\n        justify-content: flex-end;\r\n    }\r\n\r\n    &__button-submit {\r\n        color: #FFFFFF;\r\n        width: 136px;\r\n        height: 32px;\r\n        background-color: #FF3E79;\r\n        border-radius: 16px;\r\n        font-size: 12px;\r\n        font-weight: bold;\r\n        text-align: left;\r\n    }\r\n\r\n    &__button-text {\r\n        padding-left: 20px;\r\n    }\r\n\r\n    &__button-text::after {\r\n        content: url('./../img/dropdown.svg');\r\n        position: relative;\r\n        top: 1px;\r\n        left: 10px;\r\n    }\r\n\r\n    @media screen and (min-width: 600px) {\r\n        width: 440px;\r\n        left: auto;\r\n        right: 0;\r\n        border-left: 1px solid #D9FFF5;\r\n        box-shadow: 16px 0px 52px 0px #0E185033,\r\n            -2px 0px 4px 0px #454F7E05;\r\n    }\r\n}",".Repair-section {\r\n    max-width: 1120px;\r\n    border-top: 1px solid #D9FFF5;\r\n\r\n    @media screen and (min-width: 767px) {\r\n        margin-bottom: 32px;\r\n    }\r\n\r\n    &__name {\r\n        display: block;\r\n        height: 56px;\r\n        padding-left: 24px;\r\n        padding-top: 16px;\r\n\r\n        margin-bottom: 16px;\r\n\r\n        background-image: linear-gradient(to right, #F8F8F8, #FFFFFF);\r\n        color: #7E7E82;\r\n\r\n        font-size: 16px;\r\n        text-transform: uppercase;\r\n    }\r\n\r\n    .Increase-content__button {\r\n        margin-left: 24px;\r\n\r\n        @media screen and (max-width: 767px) {\r\n            display: none;\r\n        }\r\n    }\r\n\r\n    .swiper-container::after {\r\n        content: \"\";\r\n        position: absolute;\r\n        right: 0;\r\n        top: 0px;\r\n        z-index: 1;\r\n        width: 21px;\r\n        background-color: black;\r\n        height: 81px;\r\n        background: linear-gradient(to left, #F8F8F8 16.84%, rgba(248, 248, 248, 0.0001) 100%);\r\n\r\n        @media screen and (min-width: 767px) {\r\n            display: none;\r\n        }\r\n    }\r\n\r\n    .swiper-container {\r\n        display: block;\r\n        position: relative;\r\n        width: 100vw;\r\n        height: 130px;\r\n        overflow: hidden;\r\n\r\n        @media screen and (min-width: 767px) {\r\n            width: 100%;\r\n            height: 160px;\r\n            margin-bottom: 24px;\r\n        }\r\n\r\n        .swiper {\r\n            width: 400px;\r\n            height: 100%;\r\n\r\n\r\n            @media screen and (min-width: 400px) {\r\n                width: 600px;\r\n            }\r\n\r\n            @media screen and (min-width: 600px) {\r\n                width: 800px;\r\n            }\r\n\r\n\r\n            @media screen and (min-width: 767px) {\r\n                width: 100%;\r\n                height: 100%;\r\n                max-width: 1100px;\r\n                margin-left: 24px;\r\n            }\r\n\r\n            @media screen and (min-width: 1119px) {\r\n                margin-left: 32px;\r\n            }\r\n\r\n            .swiper-pagination {\r\n                transform: translateX(-100px) translateY(-24px);\r\n\r\n                @media screen and (min-width: 400px) {\r\n                    transform: translateX(-200px) translateY(-24px);\r\n                }\r\n\r\n                @media screen and (min-width: 600px) {\r\n                    transform: translateX(-300px) translateY(-24px);\r\n                }\r\n            }\r\n\r\n\r\n            .swiper-wrapper {\r\n                display: flex;\r\n\r\n                height: 100%;\r\n\r\n                @media screen and (min-width: 767px) {\r\n                    flex-wrap: wrap;\r\n                    column-gap: 24px;\r\n                    row-gap: 16px;\r\n                    overflow: hidden;\r\n                }\r\n\r\n                @media screen and (min-width: 1119px) {\r\n                    column-gap: 32px;\r\n                }\r\n\r\n\r\n                .swiper-slide {\r\n                    transition-property: transform;\r\n                    transition-duration: 200ms;\r\n                    width: 220px;\r\n                    height: 72px;\r\n\r\n                    @media screen and (min-width: 767px) {\r\n                        width: 220px;\r\n                        height: 72px;\r\n                    }\r\n\r\n                    @media screen and (min-width: 1119px) {\r\n                        width: 240px;\r\n                    }\r\n\r\n                    .Repair-section__card {\r\n                        display: flex;\r\n                        width: 100%;\r\n                        gap: 16px;\r\n                        justify-content: space-around;\r\n                        align-items: center;\r\n                        background-color: #FFFFFF;\r\n                        height: 72px;\r\n                        border: 1px solid #EAEAEA;\r\n                        border-radius: 6px;\r\n\r\n                        @media screen and (min-width: 767px) {\r\n                            width: 220px;\r\n                        }\r\n\r\n                        @media screen and (min-width: 1119px) {\r\n                            width: 240px;\r\n                        }\r\n\r\n                        .Repair-section_img--moved-left {\r\n                            transform: translateX(-20px);\r\n                        }\r\n\r\n\r\n                    }\r\n                }\r\n\r\n                .swiper-slide:hover {\r\n                    transform: scale(1.05);\r\n                }\r\n\r\n                .swiper-slide:hover .Round-icon--arrow {\r\n                    opacity: 0.7;\r\n                }\r\n\r\n            }\r\n\r\n\r\n        }\r\n    }\r\n}",".Repair-second {\r\n    max-width: 1120px;\r\n    border-top: 1px solid #D9FFF5;\r\n    margin-bottom: 32px;\r\n\r\n    &__name {\r\n        display: block;\r\n        height: 56px;\r\n        padding-left: 24px;\r\n        padding-top: 16px;\r\n\r\n        margin-bottom: 16px;\r\n\r\n        background-image: linear-gradient(to right, #F8F8F8, #FFFFFF);\r\n        color: #7E7E82;\r\n\r\n        font-size: 16px;\r\n        text-transform: uppercase;\r\n    }\r\n\r\n    .Increase-content__button {\r\n        margin-left: 24px;\r\n\r\n        @media screen and (max-width: 767px) {\r\n            display: none;\r\n        }\r\n    }\r\n\r\n    .swiper-container::after {\r\n        content: \"\";\r\n        position: absolute;\r\n        right: 0;\r\n        top: 0px;\r\n        z-index: 1;\r\n        width: 21px;\r\n        height: 81px;\r\n        background: linear-gradient(to left, #F8F8F8 16.84%, rgba(248, 248, 248, 0.0001) 100%);\r\n\r\n        @media screen and (min-width: 767px) {\r\n            display: none;\r\n        }\r\n    }\r\n\r\n\r\n    .swiper-container {\r\n        display: block;\r\n        position: relative;\r\n        width: 100vw;\r\n        height: 180px;\r\n        overflow: hidden;\r\n        margin-bottom: 24px;\r\n\r\n        @media screen and (min-width: 767px) {\r\n            width: 100%;\r\n            height: 160px;\r\n        }\r\n\r\n        .swiper {\r\n            width: 400px;\r\n            height: 100%;\r\n\r\n\r\n            @media screen and (min-width: 400px) {\r\n                width: 600px;\r\n            }\r\n\r\n            @media screen and (min-width: 600px) {\r\n                width: 800px;\r\n            }\r\n\r\n\r\n            @media screen and (min-width: 767px) {\r\n                width: 100%;\r\n                height: 100%;\r\n                max-width: 1100px;\r\n                margin-left: 24px;\r\n            }\r\n\r\n            @media screen and (min-width: 1119px) {\r\n                margin-left: 32px;\r\n            }\r\n\r\n            .swiper-pagination {\r\n                transform: translateX(-100px) translateY(10px);\r\n\r\n                @media screen and (min-width: 400px) {\r\n                    transform: translateX(-200px) translateY(10px);\r\n                }\r\n\r\n                @media screen and (min-width: 600px) {\r\n                    transform: translateX(-300px) translateY(10px);\r\n                }\r\n            }\r\n\r\n\r\n            .swiper-wrapper {\r\n                display: flex;\r\n\r\n                height: 100%;\r\n\r\n                @media screen and (min-width: 767px) {\r\n                    flex-wrap: wrap;\r\n                    column-gap: 24px;\r\n                    row-gap: 16px;\r\n                    overflow: hidden;\r\n                }\r\n\r\n                @media screen and (min-width: 1119px) {\r\n                    column-gap: 32px;\r\n                }\r\n\r\n\r\n                .swiper-slide {\r\n                    transition-property: transform;\r\n                    transition-duration: 200ms;\r\n                    width: 220px;\r\n                    height: 160px;\r\n\r\n                    @media screen and (min-width: 767px) {\r\n                        width: 220px;\r\n                        height: 160px;\r\n                    }\r\n\r\n                    @media screen and (min-width: 1119px) {\r\n                        width: 240px;\r\n                    }\r\n\r\n                    .Repair-second__card {\r\n                        display: flex;\r\n                        width: 100%;\r\n                        gap: 16px;\r\n                        justify-content: space-between;\r\n                        background-color: #FFFFFF;\r\n                        height: 160px;\r\n                        border: 1px solid #EAEAEA;\r\n                        border-radius: 6px;\r\n\r\n                        @media screen and (min-width: 767px) {\r\n                            width: 220px;\r\n                        }\r\n\r\n                        @media screen and (min-width: 1119px) {\r\n                            width: 240px;\r\n                        }\r\n\r\n                        .Repair-second__card-text {\r\n                            color: #1B1C21;\r\n                            align-self: flex-start;\r\n                            transform: translateX(10px);\r\n                            padding-top: 16px;\r\n                        }\r\n\r\n                        .Round-icon--arrow {\r\n                            align-self: flex-end;\r\n                            transform: translate(-10px, -16px);\r\n                        }\r\n                    }\r\n                }\r\n\r\n                .swiper-slide:hover {\r\n                    transform: scale(1.05);\r\n                }\r\n\r\n                .swiper-slide:hover .Round-icon--arrow {\r\n                    opacity: 0.7;\r\n                }\r\n\r\n            }\r\n\r\n\r\n        }\r\n    }\r\n}",".Price {\r\n    max-width: 1120px;\r\n    border-top: 1px solid #D9FFF5;\r\n    margin-bottom: 24px;\r\n\r\n    &__name {\r\n        display: block;\r\n        height: 56px;\r\n        padding-left: 24px;\r\n        padding-top: 16px;\r\n\r\n        margin-bottom: 16px;\r\n\r\n        background-image: linear-gradient(to right, #F8F8F8, #FFFFFF);\r\n        color: #7E7E82;\r\n\r\n        font-size: 16px;\r\n        text-transform: uppercase;\r\n    }\r\n\r\n    .Price__text-holder {\r\n        margin-left: 16px;\r\n        margin-bottom: 50px;\r\n\r\n        @media screen and (min-width: 767px) {\r\n            margin-left: 24px;\r\n        }\r\n\r\n        @media screen and (min-width: 1139px) {\r\n            margin-left: 32px;\r\n        }\r\n\r\n\r\n        p {\r\n            width: 80%;\r\n            font-size: 14px;\r\n            line-height: 18px;\r\n            color: #1B1C21;\r\n            margin-bottom: 16px;\r\n\r\n            @media screen and (min-width: 767px) {\r\n                width: 60%;\r\n            }\r\n\r\n            @media screen and (min-width: 1139px) {\r\n                width: 40%;\r\n            }\r\n        }\r\n\r\n        .Price__button {\r\n            position: relative;\r\n            width: 95%;\r\n            text-align: left;\r\n            font-size: 16px;\r\n            font-weight: 500;\r\n        }\r\n\r\n        .Price__button::after {\r\n            content: url(\"./../img/Line.svg\");\r\n            display: inline-block;\r\n            position: absolute;\r\n            transform: translateX(8px);\r\n\r\n            @media screen and (min-width: 767px) {\r\n                width: 60%;\r\n            }\r\n        }\r\n    }\r\n\r\n    .swiper-container::after {\r\n        content: \"\";\r\n        position: absolute;\r\n        right: 0;\r\n        top: 0px;\r\n        z-index: 1;\r\n        width: 21px;\r\n        height: 81px;\r\n        background: linear-gradient(to left, #F8F8F8 16.84%, rgba(248, 248, 248, 0.0001) 100%);\r\n\r\n        @media screen and (min-width: 767px) {\r\n            display: none;\r\n        }\r\n    }\r\n\r\n    .swiper-container {\r\n        display: block;\r\n        position: relative;\r\n        width: 100vw;\r\n        height: 220px;\r\n        overflow: hidden;\r\n        margin-bottom: 24px;\r\n\r\n        @media screen and (min-width: 767px) {\r\n            width: 100%;\r\n            height: 100%;\r\n        }\r\n\r\n        .swiper {\r\n            width: 400px;\r\n            height: 100%;\r\n\r\n\r\n            @media screen and (min-width: 400px) {\r\n                width: 600px;\r\n            }\r\n\r\n            @media screen and (min-width: 600px) {\r\n                width: 800px;\r\n            }\r\n\r\n\r\n            @media screen and (min-width: 767px) {\r\n                width: 100%;\r\n                height: 100%;\r\n                max-width: 1100px;\r\n                margin-left: 20px;\r\n            }\r\n\r\n            @media screen and (min-width: 767px) {\r\n                margin-left: 24px;\r\n            }\r\n\r\n            @media screen and (min-width: 1139px) {\r\n                margin-left: 32px;\r\n            }\r\n\r\n            .swiper-pagination {\r\n                transform: translateX(-100px) translateY(10px);\r\n\r\n                @media screen and (min-width: 400px) {\r\n                    transform: translateX(-200px) translateY(10px);\r\n                }\r\n\r\n                @media screen and (min-width: 600px) {\r\n                    transform: translateX(-300px) translateY(10px);\r\n                }\r\n            }\r\n\r\n\r\n            .swiper-wrapper {\r\n                display: flex;\r\n                height: 100%;\r\n\r\n                @media screen and (min-width: 767px) {\r\n                    flex-direction: column;\r\n                }\r\n\r\n                .Price__card-head {\r\n                    display: none;\r\n                    background-color: #F8F8F8;\r\n                    color: #7E7E82;\r\n                    font-size: 14px;\r\n\r\n                    @media screen and (min-width: 767px) {\r\n                        display: flex;\r\n                        padding: 16px;\r\n                        height: 55px;\r\n                    }\r\n\r\n                    .Price__head-name {\r\n                        @media screen and (min-width: 767px) {\r\n                            display: block;\r\n                            width: 43%;\r\n                        }\r\n                    }\r\n\r\n                    .Price__head-price {\r\n                        @media screen and (min-width: 767px) {\r\n                            display: block;\r\n                            width: 14%;\r\n                        }\r\n                    }\r\n\r\n                    .Price__head-time {\r\n                        @media screen and (min-width: 767px) {\r\n                            display: block;\r\n                        }\r\n                    }\r\n                }\r\n\r\n                .swiper-slide {\r\n                    transition-property: transform;\r\n                    transition-duration: 200ms;\r\n                    width: 220px;\r\n                    height: 210px;\r\n\r\n                    @media screen and (min-width: 767px) {\r\n                        width: 95%;\r\n                        height: 64px;\r\n                        background-color: #FFFFFF;\r\n                    }\r\n\r\n                    .Price__card {\r\n                        display: flex;\r\n                        flex-direction: column;\r\n                        width: 100%;\r\n                        height: 200px;\r\n                        border: 1px solid #EAEAEA;\r\n                        border-radius: 6px;\r\n                        padding: 16px;\r\n                        color: #1B1C21;\r\n\r\n                        @media screen and (max-width: 767px) {\r\n                            background-color: #FFFFFF;\r\n                        }\r\n\r\n\r\n                        @media screen and (min-width: 767px) {\r\n                            flex-direction: row;\r\n                            border: none;\r\n                            border-radius: 0;\r\n                            height: 64px;\r\n                            align-items: center;\r\n                        }\r\n\r\n                        .Price__service-name {\r\n                            color: #7E7E82;\r\n                            line-height: 16px;\r\n                            font-size: 14px;\r\n                            margin-bottom: 4px;\r\n\r\n                            @media screen and (min-width: 767px) {\r\n                                display: none;\r\n                            }\r\n                        }\r\n\r\n                        .Price__service-text {\r\n                            line-height: 18px;\r\n                            margin-bottom: 16px;\r\n\r\n                            @media screen and (min-width: 767px) {\r\n                                margin-bottom: 0;\r\n                                width: 45%;\r\n                            }\r\n                        }\r\n\r\n                        .Price__price-text {\r\n                            line-height: 16px;\r\n                            color: #7E7E82;\r\n                            margin-bottom: 4px;\r\n\r\n                            @media screen and (min-width: 767px) {\r\n                                display: none;\r\n                            }\r\n                        }\r\n\r\n                        .Price__price-value {\r\n                            line-height: 18px;\r\n                            margin-bottom: 16px;\r\n\r\n                            @media screen and (min-width: 767px) {\r\n                                margin-bottom: 0;\r\n                                width: 15%;\r\n                            }\r\n                        }\r\n\r\n                        .Price__price-value.Price__price-value__moved {\r\n                            margin-bottom: 32px;\r\n\r\n                            @media screen and (min-width: 767px) {\r\n                                margin-bottom: 0;\r\n                            }\r\n                        }\r\n\r\n                        .Price__time-holder {\r\n                            @media screen and (min-width: 767px) {\r\n                                display: flex;\r\n                                align-items: center;\r\n                            }\r\n                        }\r\n\r\n                        .Price__price-time {\r\n                            color: #7E7E82;\r\n                            line-height: 16px;\r\n\r\n                            @media screen and (min-width: 767px) {\r\n                                display: none;\r\n                            }\r\n                        }\r\n\r\n                        .Price__time-value {\r\n                            line-height: 18px;\r\n\r\n                            @media screen and (min-width: 767px) {\r\n                                align-self: center;\r\n                            }\r\n                        }\r\n\r\n                        .Price__holder {\r\n                            display: flex;\r\n                            justify-content: space-between;\r\n\r\n                            @media screen and (min-width: 767px) {\r\n                                width: 40%;\r\n                            }\r\n                        }\r\n\r\n                        .Price__card-button {\r\n                            display: flex;\r\n                            width: 120px;\r\n                            transform: translateY(10px);\r\n                            border-radius: 16px;\r\n                            height: 32px;\r\n                            font-weight: 600;\r\n                            text-align: left;\r\n                            background-color: #FF3E79;\r\n                            transition-property: opacity, transform;\r\n                            transition-duration: 400ms, 400ms;\r\n\r\n                            @media screen and (min-width: 767px) {\r\n                                transform: translateY(0);\r\n                            }\r\n                        }\r\n\r\n                        .Price__button-text {\r\n                            align-self: center;\r\n                            text-transform: uppercase;\r\n                            color: #FFFFFF;\r\n                            padding-left: 12px;\r\n                            font-size: 12px;\r\n                        }\r\n\r\n                        .Price__button-text::after {\r\n                            content: url('./../img/dropdown.svg');\r\n                            position: relative;\r\n                            top: 1px;\r\n                            left: 16px;\r\n                        }\r\n                    }\r\n                }\r\n\r\n                .Price__card::after {\r\n                    content: \"\";\r\n                    display: block;\r\n                    position: absolute;\r\n                    bottom: 0;\r\n                    height: 1px;\r\n                    width: 95%;\r\n                    background-color: #EAEAEA;\r\n\r\n                    @media screen and (max-width: 767px) {\r\n                        display: none;\r\n                    }\r\n                }\r\n\r\n                .swiper-slide:last-child .Price__card::after {\r\n                    display: none;\r\n                }\r\n\r\n                .swiper-slide:hover .Price__card-button {\r\n                    opacity: 0.7;\r\n                    transform: scale(1.05);\r\n                }\r\n\r\n            }\r\n\r\n\r\n        }\r\n    }\r\n}",".Company-info__footer {\r\n    display: flex;\r\n    height: 65px;\r\n    flex-direction: column;\r\n    align-items: center;\r\n    justify-content: center;\r\n    border-top: 1px solid #D9FFF5;\r\n    margin-left: 0;\r\n    text-align: center;\r\n\r\n    @media screen and (min-width: 767px) {\r\n        flex-direction: row;\r\n        justify-content: space-around;\r\n        align-items: flex-end;\r\n        padding: 0 30px;\r\n    }\r\n\r\n\r\n\r\n    &__text {\r\n        color: #7E7E82;\r\n        font-size: 14px;\r\n        line-height: 16px;\r\n    }\r\n\r\n    &__text-left {\r\n        width: 100%;\r\n        margin-bottom: 16px;\r\n\r\n        @media screen and (min-width: 767px) {\r\n            text-align: left;\r\n            margin-bottom: 0;\r\n        }\r\n    }\r\n\r\n    &__text-middle {\r\n        width: 100%;\r\n        margin-bottom: 16px;\r\n\r\n\r\n        @media screen and (min-width: 767px) {\r\n            text-align: center;\r\n            margin-bottom: 0;\r\n        }\r\n    }\r\n\r\n    &__text-right {\r\n        width: 100%;\r\n        margin-bottom: 16px;\r\n\r\n        @media screen and (min-width: 767px) {\r\n            text-align: right;\r\n            margin-bottom: 0;\r\n        }\r\n    }\r\n}","@import './fonts.scss';\r\n@import './mobile-menu/mobile-menu.scss';\r\n@import './reset.css';\r\n@import './header/header.scss';\r\n@import './buttons/button.scss';\r\n@import './company-info/company-info.scss';\r\n@import './modal-call/modal-call.scss';\r\n@import './modal-feedback/modal-feedback.scss';\r\n@import './swipers/swiper-1.scss';\r\n@import './swipers/swiper-2.scss';\r\n@import './swipers/swiper-3.scss';\r\n@import './footer/footer.scss';\r\n\r\n$background-cl-body: #F8F8F8;\r\n\r\nbody {\r\n    font-family: \"TT Lakes\";\r\n    background-color: $background-cl-body;\r\n}\r\n\r\n.modal__backdrop {\r\n    position: fixed;\r\n    display: none;\r\n    z-index: 10;\r\n    top: 0;\r\n    left: 0;\r\n    right: 0;\r\n    bottom: 0;\r\n    background-color: rgba(255, 255, 255, 0.9);\r\n}\r\n\r\n.Mobile-menu__backdrop {\r\n    position: fixed;\r\n    display: none;\r\n    z-index: 1;\r\n    top: 0;\r\n    left: 0;\r\n    right: 0;\r\n    bottom: 0;\r\n    background-color: rgba(255, 255, 255, 0.9);\r\n}\r\n\r\n.App-wrapper {\r\n    height: 100%;\r\n    width: 100%;\r\n\r\n    @media screen and (min-width: 1440px) {\r\n        display: flex;\r\n        justify-content: center;\r\n    }\r\n}"],"sourceRoot":""}]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -1808,10 +1775,10 @@ module.exports = styleTagTransform;
 
 const burgerMenu = document.querySelector('.Mobile-menu')
 
-const burgerMenuOpenButton = document.querySelector('.Button__burger-on')
-const butgerMenuCloseButton = burgerMenu.querySelector('.Button__burger-off')
+const burgerMenuOpenButton = document.querySelector('.Round-icon--on')
+const butgerMenuCloseButton = burgerMenu.querySelector('.Round-icon--off')
 
-const burgerMenuBackDrop = document.querySelector('.burgerMenuBackDrop')
+const burgerMenuBackDrop = document.querySelector('.Mobile-menu__backdrop')
 
 burgerMenuOpenButton.addEventListener('click', function () {
     burgerMenu.style.display = 'flex';
@@ -1851,7 +1818,7 @@ const companyInfo = document.querySelector('.Company-info')
 
 const companyInfoTextWrapper = companyInfo.querySelector('.Company-info__content-wrapper')
 const companyInfoText = companyInfo.querySelector('.Company-info__content-text')
-const companyInfoButton = companyInfo.querySelector('.Company-info__content-button')
+const companyInfoButton = companyInfo.querySelector('.Increase-content__button')
 
 
 
@@ -1862,41 +1829,41 @@ companyInfoButton.addEventListener('click', function () {
         companyInfoTextWrapper.style.height = '100%'
         companyInfoText.style.height = '100%'
         companyInfoButton.textContent = 'Скрыть'
-        companyInfoButton.classList.add('company-info__button-rotated')
+        companyInfoButton.classList.add('Increase-content__button--rotated-true')
     }
     else if (width < 767) {
         companyInfoTextWrapper.style.height = '130px'
         companyInfoText.style.height = '90px'
         companyInfoButton.textContent = 'Читать далее'
-        companyInfoButton.classList.remove('company-info__button-rotated')
+        companyInfoButton.classList.remove('Increase-content__button--rotated-true')
     }
 
     if ((width > 767 && width < 1139) && companyInfoTextWrapper.style.height != '100%') {
         companyInfoTextWrapper.style.height = '100%'
         companyInfoText.style.height = '100%'
         companyInfoButton.textContent = 'Скрыть'
-        companyInfoButton.classList.add('company-info__button-rotated')
+        companyInfoButton.classList.add('Increase-content__button--rotated-true')
     }
 
     else if (width > 767 && width < 1139) {
         companyInfoTextWrapper.style.height = '160px'
         companyInfoText.style.height = '125px'
         companyInfoButton.textContent = 'Читать далее'
-        companyInfoButton.classList.remove('company-info__button-rotated')
+        companyInfoButton.classList.remove('Increase-content__button--rotated-true')
     }
 
     if (width > 1139 && companyInfoTextWrapper.style.height != '100%') {
         companyInfoTextWrapper.style.height = '100%'
         companyInfoText.style.height = '100%'
         companyInfoButton.textContent = 'Скрыть'
-        companyInfoButton.classList.add('company-info__button-rotated')
+        companyInfoButton.classList.add('Increase-content__button--rotated-true')
     }
 
     else if (width > 1139) {
         companyInfoTextWrapper.style.height = '160px'
         companyInfoText.style.height = '140px'
         companyInfoButton.textContent = 'Читать далее'
-        companyInfoButton.classList.remove('company-info__button-rotated')
+        companyInfoButton.classList.remove('Increase-content__button--rotated-true')
     }
 
 })
@@ -1910,13 +1877,13 @@ companyInfoButton.addEventListener('click', function () {
 /***/ (() => {
 
 //тень формы
-const modalBackDrop = document.querySelector('.modalBackdrop')
+const modalBackDrop = document.querySelector('.modal__backdrop')
 
 //формы
-const modalCall = document.querySelector('.modal-call')
+const modalCall = document.querySelector('.Modal-call')
 
 const modalCallForm = modalCall.querySelector('form')
-const modalCallCloseButton = modalCall.querySelector('.Button__burger-off')
+const modalCallCloseButton = modalCall.querySelector('.Round-icon--off')
 
 //кнопка закрытия
 modalCallCloseButton.addEventListener('click', function () {
@@ -1925,7 +1892,7 @@ modalCallCloseButton.addEventListener('click', function () {
 })
 
 //Кнопки открытия
-const modalCallOpenButtons = document.querySelectorAll('.Button__call')
+const modalCallOpenButtons = document.querySelectorAll('.Round-icon--call')
 
 for (let i = 0; i < modalCallOpenButtons.length; i++) {
     modalCallOpenButtons[i].addEventListener('click', function () {
@@ -1935,10 +1902,10 @@ for (let i = 0; i < modalCallOpenButtons.length; i++) {
 }
 
 
-const modalFeedBack = document.querySelector('.modal-feedback')
+const modalFeedBack = document.querySelector('.Modal-feedback')
 
 const modalFeedBackForm = modalFeedBack.querySelector('form')
-const modalFeedBackCloseButton = modalFeedBack.querySelector('.Button__burger-off')
+const modalFeedBackCloseButton = modalFeedBack.querySelector('.Round-icon--off')
 
 //кнопка закрытия
 modalFeedBackCloseButton.addEventListener('click', function () {
@@ -1946,7 +1913,7 @@ modalFeedBackCloseButton.addEventListener('click', function () {
     modalBackDrop.style.display = "none"
 })
 
-const modalFeedBackOpenButtons = document.querySelectorAll('.Button__message')
+const modalFeedBackOpenButtons = document.querySelectorAll('.Round-icon--message')
 
 //Кнопки открытия
 for (let i = 0; i < modalFeedBackOpenButtons.length; i++) {
@@ -1981,13 +1948,13 @@ modalFeedBackForm.addEventListener('click', function (el) {
 /***/ (() => {
 
 //элементы первого слайдера
-const button = document.querySelector('.Repair-section__button')
 const repairSection = document.querySelector('.Repair-section')
+const button = repairSection.querySelector('.Increase-content__button')
 const repairSectionContainer = repairSection.querySelector('.swiper-container')
 
 //элементы второго слайдера
-const buttonSecond = document.querySelector('.Repair-second__button')
 const repairSectionSecond = document.querySelector('.Repair-second')
+const buttonSecond = repairSectionSecond.querySelector('.Increase-content__button')
 const repairSectionContainerSecond = repairSectionSecond.querySelector('.swiper-container')
 
 //eventlistener первого слайдера
@@ -1995,11 +1962,11 @@ button.addEventListener('click', function () {
 
     if (repairSectionContainer.style.height != "100%") {
         repairSectionContainer.style.height = "100%";
-        button.classList.add('Repair-section_button__rotate')
+        button.classList.add('Increase-content__button--rotated-true')
         button.textContent = 'Скрыть'
     }
     else {
-        button.classList.remove('Repair-section_button__rotate')
+        button.classList.remove('Increase-content__button--rotated-true')
         repairSectionContainer.style.height = "160px"
         button.textContent = 'Показать все'
     }
@@ -2010,11 +1977,11 @@ buttonSecond.addEventListener('click', function () {
 
     if (repairSectionContainerSecond.style.height != "100%") {
         repairSectionContainerSecond.style.height = "100%";
-        buttonSecond.classList.add('Repair-second_button__rotate')
+        buttonSecond.classList.add('Increase-content__button--rotated-true')
         buttonSecond.textContent = 'Скрыть'
     }
     else {
-        buttonSecond.classList.remove('Repair-second_button__rotate')
+        buttonSecond.classList.remove('Increase-content__button--rotated-true')
         repairSectionContainerSecond.style.height = "160px"
         buttonSecond.textContent = 'Показать все'
     }
@@ -2362,17 +2329,6 @@ module.exports = __webpack_require__.p + "img/repair.svg";
 
 /***/ }),
 
-/***/ "./img/repait-section-button.svg":
-/*!***************************************!*\
-  !*** ./img/repait-section-button.svg ***!
-  \***************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-"use strict";
-module.exports = __webpack_require__.p + "img/repait-section-button.svg";
-
-/***/ }),
-
 /***/ "./img/search.svg":
 /*!************************!*\
   !*** ./img/search.svg ***!
@@ -2547,4 +2503,4 @@ __webpack_require__.r(__webpack_exports__);
 
 /******/ })()
 ;
-//# sourceMappingURL=main.830bddc0fb4c2754881f.js.map
+//# sourceMappingURL=main.8c84c681f91199bd9cb6.js.map
