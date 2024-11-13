@@ -475,57 +475,67 @@
     <aside class="Modal-call">
         <div class="Modal-call__wrapper">
             <button class="Round-icon Round-icon--off"></button>
-            <label>
-                <div class="Modal-call__name">Заказать звонок</div>
-                <form action="#" method="post">
-                    <input class="Modal-call__input" type="tel" name="phone" placeholder="Телефон" required
-                        autocomplete='true'>
 
-                    <p class="Modal-call__text">
-                        Нажимая “отправить”, вы даете согласие на <a class="modal-call__text-link" href="#">обработку
-                            персональных данных</a>
-                        и соглашаетесь с нашей
-                        <a class="Modal-call__text-link" href="#">политикой конфиденциальности</a>
-                    </p>
-                    <div class="Modal-call__button-wrapper">
-                        <button class="Submit-button" type="submit">
-                            <div class="Submit-button__text">ОТПРАВИТЬ</div>
-                        </button>
-                    </div>
-                </form>
-            </label>
+            <div class="Modal-call__label-wrapper">
+                <label for="Modal-call__form">
+                    <span class="Modal-call__name">Заказать звонок</span>
+                </label>
+            </div>
+
+            <form action="#" method="post" id="Modal-call__form">
+
+                <input class="Modal-call__input" type="tel" name="phone" placeholder="Телефон" required>
+
+                <p class="Modal-call__text">
+                    Нажимая “отправить”, вы даете согласие на <a class="modal-call__text-link" href="#">обработку
+                        персональных данных</a>
+                    и соглашаетесь с нашей
+                    <a class="Modal-call__text-link" href="#">политикой конфиденциальности</a>
+                </p>
+                <div class="Modal-call__button-wrapper">
+                    <button class="Submit-button" type="submit">
+                        <div class="Submit-button__text">ОТПРАВИТЬ</div>
+                    </button>
+                </div>
+
+            </form>
+
         </div>
     </aside>
 
     <aside class="Modal-feedback">
         <div class="Modal-feedback__wrapper">
             <button class="Round-icon Round-icon--off"></button>
-            <label>
-                <div class="Modal-feedback__name">Обратная связь</div>
-                <form action="#" method="post">
 
-                    <input class="Modal-feedback__input" type="text" name="name" placeholder="Имя" required
-                        autocomplete='true'>
-                    <input class="Modal-feedback__input" type="tel" name="phone" placeholder="Телефон" required
-                        autocomplete='true'>
-                    <input class="Modal-feedback__input" type="email" name="email" placeholder="Электронная почка"
-                        required autocomplete='true'>
-                    <textarea class=" Modal-feedback__input modal-feedback__textarea" name="message"
-                        placeholder="Сообщение" required></textarea>
+            <div class="Modal-feedback__label-wrapper">
+                <label for="Modal-feedback__form">
+                    <span class="Modal-feedback__name">Обратная связь</span>
+                </label>
+            </div>
 
-                    <p class="Modal-feedback__text">
-                        Нажимая “отправить”, вы даете согласие на 
-                        <a class="Modal-feedback__text-link" href="#">обработку персональных данных</a>
-                        и соглашаетесь с нашей
-                        <a class="Modal-feedback__text-link" href="#">политикой конфиденциальности</a>
-                    </p>
-                    <div class="Modal-feedback__button-wrapper">
-                        <button class="Submit-button" type="submit">
-                            <div class="Submit-button__text">ОТПРАВИТЬ</div>
-                        </button>
-                    </div>
-                </form>
-            </label>
+            <form action="#" method="post" id="Modal-feedback__form">
+
+                <input class="Modal-feedback__input" type="text" name="name" placeholder="Имя" required>
+                <input class="Modal-feedback__input" type="tel" name="phone" placeholder="Телефон" required>
+                <input class="Modal-feedback__input" type="email" name="email" placeholder="Электронная почка" required>
+
+                <textarea class=" Modal-feedback__input modal-feedback__textarea" name="message" placeholder="Сообщение"
+                    required></textarea>
+
+                <p class="Modal-feedback__text">
+                    Нажимая “отправить”, вы даете согласие на 
+                    <a class="Modal-feedback__text-link" href="#">обработку персональных данных</a>
+                    и соглашаетесь с нашей
+                    <a class="Modal-feedback__text-link" href="#">политикой конфиденциальности</a>
+                </p>
+                <div class="Modal-feedback__button-wrapper">
+                    <button class="Submit-button" type="submit">
+                        <div class="Submit-button__text">ОТПРАВИТЬ</div>
+                    </button>
+                </div>
+
+            </form>
+
         </div>
     </aside>
     <div class="modal__backdrop"></div>
