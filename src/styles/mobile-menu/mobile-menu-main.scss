@@ -34,7 +34,7 @@ $background-cl-hover: #f0f0f0;
         padding: 0;
         margin: 0;
 
-        li a {
+        .Main-wrapper__link {
             display: block;
 
             padding: 10px 0;
@@ -49,21 +49,22 @@ $background-cl-hover: #f0f0f0;
             transition-duration: 300ms;
         }
 
-        li a:hover {
+        .Main-wrapper__link:hover {
             background-color: $background-cl-hover;
         }
 
-        li .active {
+        .Main-wrapper__link.active {
             color: $text-cl-active;
             position: relative;
         }
 
-        li .active::before {
+        .Main-wrapper__link.active::before {
             content: url("../img/highlight.svg");
             position: absolute;
             left: 0px;
             top: 0px;
         }
     }
+
 
 }

@@ -1,6 +1,6 @@
 $background-cl: #FFFFFF;
 
-.modal-feedback {
+.Modal-feedback {
     display: none;
     position: fixed;
     z-index: 20;
@@ -15,7 +15,7 @@ $background-cl: #FFFFFF;
         padding: 24px 16px;
     }
 
-    .Button__burger-off {
+    .Round-icon--off {
         margin-bottom: 40px;
 
         @media screen and (min-width: 600px) {

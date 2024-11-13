@@ -51,8 +51,19 @@ $links-border-cl: #B8FFEC;
     }
 
     &__links-wrapper {
+        position: relative;
         margin-bottom: 24px;
         max-width: 1096px;
+    }
+
+    &__links-wrapper::after {
+        content: '';
+        position: absolute;
+        width: 24px;
+        height: 40px;
+        right: 0;
+        top: 0;
+        background: linear-gradient(270deg, #F8F8F8 16.84%, rgba(248, 248, 248, 0.0001) 100%);
     }
 
     &__links {
@@ -112,6 +123,7 @@ $links-border-cl: #B8FFEC;
         max-width: 490px;
         height: 90px;
         overflow: hidden;
+        margin-bottom: 16px;
 
         @media screen and (min-width: 767px) {
             height: 125px;
@@ -121,27 +133,6 @@ $links-border-cl: #B8FFEC;
         @media screen and (min-width: 1120px) {
             height: 140px;
         }
-    }
-
-    &__content-button {
-        font-size: 16px;
-        margin-top: 16px;
-        color: #1B1C21;
-        line-height: 24px;
-        font-weight: 500;
-    }
-
-    &__content-button::before {
-        content: url('./../img/expand.svg');
-        display: inline-block;
-        margin-right: 6px;
-        width: 24px;
-        height: 24px;
-    }
-
-    &__content-button.company-info__button-rotated::before {
-        content: url('./../img/expand.svg');
-        transform: rotate(180deg);
     }
 
     &__img-wrapper {

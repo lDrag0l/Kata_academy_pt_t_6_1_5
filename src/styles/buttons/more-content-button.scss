@@ -1,0 +1,19 @@
+.Increase-content__button {
+    font-size: 16px;
+    color: #1B1C21;
+    line-height: 24px;
+    font-weight: 500;
+}
+
+.Increase-content__button::before {
+    content: url('./../img/expand.svg');
+    display: inline-block;
+    margin-right: 6px;
+    width: 24px;
+    height: 24px;
+}
+
+.Increase-content__button.Increase-content__button--rotated-true::before {
+    content: url('./../img/expand.svg');
+    transform: rotate(180deg);
+}

@@ -7,7 +7,7 @@ $background-cl: #FFFFFF;
 .Mobile-menu {
     display: none;
     flex-direction: column;
-    position: absolute;
+    position: fixed;
     z-index: 5;
     top: 0;
     left: 0;
@@ -19,6 +19,10 @@ $background-cl: #FFFFFF;
 
     @media screen and (min-width: 321px) and (max-width: 360px) {
         width: 100%
+    }
+
+    @media screen and (min-width: 767px) {
+        position: absolute;
     }
 
     @media screen and (min-width: 1439px) {

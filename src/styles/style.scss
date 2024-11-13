@@ -18,7 +18,7 @@ body {
     background-color: $background-cl-body;
 }
 
-.modalBackdrop {
+.modal__backdrop {
     position: fixed;
     display: none;
     z-index: 10;
@@ -29,7 +29,7 @@ body {
     background-color: rgba(255, 255, 255, 0.9);
 }
 
-.burgerMenuBackDrop {
+.Mobile-menu__backdrop {
     position: fixed;
     display: none;
     z-index: 1;
@@ -40,7 +40,7 @@ body {
     background-color: rgba(255, 255, 255, 0.9);
 }
 
-.app-wrapper {
+.App-wrapper {
     height: 100%;
     width: 100%;
 

@@ -1,7 +1,10 @@
 .Repair-section {
     max-width: 1120px;
     border-top: 1px solid #D9FFF5;
-    margin-bottom: 32px;
+
+    @media screen and (min-width: 767px) {
+        margin-bottom: 32px;
+    }
 
     &__name {
         display: block;
@@ -18,29 +21,28 @@
         text-transform: uppercase;
     }
 
-    &__button {
-        display: flex;
-        background-color: #F8F8F8;
-        margin-left: 32px;
+    .Increase-content__button {
+        margin-left: 24px;
 
         @media screen and (max-width: 767px) {
             display: none;
         }
     }
 
-    &__button::before {
-        content: '';
-        background-image: url("./../img/repait-section-button.svg");
-        background-repeat: no-repeat;
-        background-position: 50% 50%;
-        align-self: center;
-        height: 12px;
-        width: 8px;
-        margin-right: 17px;
-    }
+    .swiper-container::after {
+        content: "";
+        position: absolute;
+        right: 0;
+        top: 0px;
+        z-index: 1;
+        width: 21px;
+        background-color: black;
+        height: 81px;
+        background: linear-gradient(to left, #F8F8F8 16.84%, rgba(248, 248, 248, 0.0001) 100%);
 
-    &__button.Repair-section_button__rotate::before {
-        transform: rotate(180deg);
+        @media screen and (min-width: 767px) {
+            display: none;
+        }
     }
 
     .swiper-container {
@@ -49,26 +51,11 @@
         width: 100vw;
         height: 130px;
         overflow: hidden;
-        margin-bottom: 24px;
 
         @media screen and (min-width: 767px) {
             width: 100%;
             height: 160px;
-        }
-
-        .swiper-container::after {
-            content: "";
-            position: absolute;
-            right: 0;
-            top: 0px;
-            z-index: 1;
-            width: 21px;
-            height: 81px;
-            background: linear-gradient(to left, #F8F8F8 16.84%, rgba(248, 248, 248, 0.0001) 100%);
-
-            @media screen and (min-width: 767px) {
-                display: none;
-            }
+            margin-bottom: 24px;
         }
 
         .swiper {
@@ -164,13 +151,7 @@
                             transform: translateX(-20px);
                         }
 
-                        .Repair-section__card-button {
-                            width: 40px;
-                            height: 40px;
-                            background-image: url('./../img/go.svg');
-                            background-repeat: no-repeat;
-                            background-position: 50% 50%;
-                        }
+
                     }
                 }
 
@@ -178,7 +159,7 @@
                     transform: scale(1.05);
                 }
 
-                .swiper-slide:hover .Repair-section__card-button {
+                .swiper-slide:hover .Round-icon--arrow {
                     opacity: 0.7;
                 }
 

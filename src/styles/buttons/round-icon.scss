@@ -1,0 +1,62 @@
+$background-cl: #ffffff;
+
+.Round-icon {
+    display: block;
+
+    width: 40px;
+    height: 40px;
+
+    border: none;
+
+    cursor: pointer;
+
+    padding: 0;
+
+    transition-property: opacity;
+    transition-duration: 400ms;
+
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-color: $background-cl
+}
+
+.Round-icon:hover {
+    opacity: 0.7;
+}
+
+.Round-icon--arrow {
+    background-image: url('./../img/go.svg');
+}
+
+.Round-icon--off {
+    background-image: url("../img/burger-off.svg");
+
+}
+
+.Round-icon--on {
+    background-image: url("../img/burger-on.svg");
+}
+
+.Round-icon--find {
+    background-image: url("../img/search.svg");
+}
+
+.Round-icon--call {
+    background-image: url("../img/call.svg");
+}
+
+.Round-icon--message {
+    background-image: url("../img/chat.svg");
+}
+
+.Round-icon--profile {
+    background-image: url("../img/profile.svg");
+}
+
+.Round-icon--repair {
+    background-image: url("../img/repair.svg");
+}
+
+.Round-icon--check {
+    background-image: url("../img/checkstatus.svg");
+}

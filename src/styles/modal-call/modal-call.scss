@@ -1,6 +1,6 @@
 $background-cl: #FFFFFF;
 
-.modal-call {
+.Modal-call {
     display: none;
     position: fixed;
     left: 0;
@@ -15,7 +15,7 @@ $background-cl: #FFFFFF;
         padding: 24px 16px;
     }
 
-    .Button__burger-off {
+    .Round-icon--off {
         margin-bottom: 40px;
 
         @media screen and (min-width: 600px) {
@@ -60,28 +60,6 @@ $background-cl: #FFFFFF;
     &__button-wrapper {
         display: flex;
         justify-content: flex-end;
-    }
-
-    &__button-submit {
-        color: #FFFFFF;
-        width: 136px;
-        height: 32px;
-        background-color: #FF3E79;
-        border-radius: 16px;
-        font-size: 12px;
-        font-weight: bold;
-        text-align: left;
-    }
-
-    &__button-text {
-        padding-left: 20px;
-    }
-
-    &__button-text::after {
-        content: url('./../img/dropdown.svg');
-        position: relative;
-        top: 1px;
-        left: 10px;
     }
 
     @media screen and (min-width: 600px) {
