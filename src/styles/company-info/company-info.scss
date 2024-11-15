@@ -5,7 +5,9 @@ $links-border-cl: #B8FFEC;
 
 .Company-info {
     max-width: 1120px;
-    margin-bottom: 24px;
+    margin-bottom: 23px;
+    padding-bottom: 1px;
+    padding-top: 1px;
 
     &__name {
         margin-bottom: 24px;
@@ -14,7 +16,7 @@ $links-border-cl: #B8FFEC;
         justify-content: space-between;
 
         @media screen and (min-width: 1120px) {
-            margin-top: 42px;
+            margin-top: 41px;
             margin-bottom: 8px;
         }
     }
