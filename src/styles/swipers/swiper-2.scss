@@ -18,7 +18,7 @@
         text-transform: uppercase;
     }
 
-    .Increase-content__button {
+    .Increase-content {
         margin-left: 24px;
 
         @media screen and (max-width: 767px) {
@@ -31,10 +31,25 @@
         position: absolute;
         right: 0;
         top: 0px;
-        z-index: 1;
-        width: 21px;
-        height: 81px;
+        z-index: 2;
+        width: 24px;
+        height: 180px;
         background: linear-gradient(to left, #F8F8F8 16.84%, rgba(248, 248, 248, 0.0001) 100%);
+
+        @media screen and (min-width: 767px) {
+            display: none;
+        }
+    }
+
+    .swiper-container::before {
+        content: "";
+        position: absolute;
+        left: 0;
+        top: 0px;
+        z-index: 2;
+        width: 24px;
+        height: 180px;
+        background: linear-gradient(to right, #F8F8F8 16.84%, rgba(248, 248, 248, 0.0001) 100%);
 
         @media screen and (min-width: 767px) {
             display: none;

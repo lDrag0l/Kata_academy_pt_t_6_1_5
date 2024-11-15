@@ -11,6 +11,8 @@ $background-cl: #FFFFFF;
     z-index: 5;
     top: 0;
     left: 0;
+    right: 0;
+    bottom: 0;
     width: 330px;
     background-color: $background-cl;
     box-shadow:
@@ -23,6 +25,8 @@ $background-cl: #FFFFFF;
 
     @media screen and (min-width: 767px) {
         position: absolute;
+        right: auto;
+        bottom: auto;
     }
 
     @media screen and (min-width: 1439px) {
